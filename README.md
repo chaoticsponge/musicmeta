@@ -1,22 +1,14 @@
 # musicmeta
 
-`musicmeta` is a small workflow for turning playlist downloads into audio files with usable embedded metadata for media player apps such as Apple Music, iTunes, MusicBee, Plexamp, and similar libraries.
+`musicmeta` is a small workflow for getting off the apple music subscription or just updating your music's metadata.
 
-The expected flow is:
+1. Head to [Apple's Privacy Page](https://privacy.apple.com) and transfer a copy of your data to youtube music. You can now choose to stay on youtube music or continue:
+2. Unlist your playlist on YouTube and download the playlist with [Stacher](https://stacher.io).
+3. Save the downloaded audio files into `musicmeta/songs`.
+4. Run `metadata_update.py`.
+5. Use the enriched files from `musicmeta/meta-enriched` back into your music app for subscription free music.
 
-1. Download a YouTube playlist with [Stacher](https://stacher.io).
-2. Save the downloaded audio files into `musicmeta/songs`.
-3. Run `metadata_update.py`.
-4. Use the enriched files from `musicmeta/meta-enriched`.
-
-## Folder Layout
-
-```text
-musicmeta/
-  metadata_update.py
-  songs/
-  meta-enriched/
-```
+The script updates your audio files with usable embedded metadata for media player apps such as Apple Music, iTunes, MusicBee, Plexamp, and similar libraries.
 
 `songs/` is the intake folder. Put new downloads there.
 
@@ -24,131 +16,57 @@ musicmeta/
 
 Files that fail parsing, tagging, or lookup stay in `songs/` so they can be fixed and rerun.
 
-## Stacher Setup
+## Quick Start
 
-Download playlists with Stacher:
+Copy-paste the minimal steps below to get started.
 
-https://stacher.io
-
-Set Stacher's filename template to:
-
-```text
-title_artist.ext
-```
-
-![Stacher filename template](template.png)
-
-This script depends on that format. The underscore separates the song title from the artist name.
-
-Examples:
-
-```text
-A Pearl_Mitski.opus
-BIRDS OF A FEATHER_Billie Eilish.m4a
-No Surprises_Radiohead.mp3
-```
-
-Avoid filenames without the underscore separator, because they will be left in `songs/` as unsuccessful.
-
-The script also cleans common YouTube-style extras from names. For example,
-`Alicia Keys - A Woman's Worth (Official HD Video)_NA.opus` is treated as
-artist `Alicia Keys` and title `A Woman's Worth`.
-
-## Requirements
-
-Install or have available:
-
-- Python 3
-- `ffmpeg`
-- Python package `requests`
-
-Check locally:
+1. Clone the repo:
 
 ```bash
+git clone https://github.com/chaoticsponge/musicmeta
+cd musicmeta
+```
+
+2. Install prerequisites:
+
+```bash
+# macOS / Linux
 python3 --version
-ffmpeg -version
-python3 -c "import requests"
+brew install ffmpeg   # or apt/yum as appropriate
+python3 -m pip install requests
 ```
 
-## Usage
+3. Install Stacher and set the filename template to `title_artist.ext`:
 
-From the repository root:
+- https://stacher.io
+- Set the filename template to: `title_artist.ext` (the underscore separates title and artist).
 
-```bash
-python3 Music/musicmeta/metadata_update.py
-```
+![Stacher filename template](misc/template.png)
 
-Or from inside `Music/musicmeta`:
+4. Put downloaded audio files into `songs/`.
+
+5. Enrich metadata:
 
 ```bash
 python3 metadata_update.py
 ```
 
-By default, the script:
-
-- Reads audio files from `musicmeta/songs`
-- Parses title and artist from `title_artist.ext`
-- Searches MusicBrainz for album, date, track number, and MusicBrainz IDs
-- Writes metadata with `ffmpeg` without re-encoding the audio
-- Moves successful files to `musicmeta/meta-enriched`
-- Leaves unsuccessful files in `musicmeta/songs`
-
-## Before/After Metadata Check
-
-To inspect metadata before and after enrichment:
+6. If you want to inspect before/after metadata quickly:
 
 ```bash
-python3 Music/musicmeta/metadata_test.py
+python3 misc/metadata_test.py
 ```
 
-The test script reads files still in `musicmeta/songs` as the before state and files in `musicmeta/meta-enriched` as the after state.
+Example test run:
 
-For machine-readable output:
+![Test run after enrichment](misc/post-run.png)
+
+7. Optional: move output elsewhere when running the updater:
 
 ```bash
-python3 Music/musicmeta/metadata_test.py --json
+python3 metadata_update.py --output /path/to/where/you/want/files
 ```
 
-## Offline Mode
+Supported formats: `.opus`, `.m4a`, `.mp3`, `.flac`, `.ogg`.
 
-To skip MusicBrainz and only write title/artist from the filename:
-
-```bash
-python3 Music/musicmeta/metadata_update.py --no-musicbrainz
-```
-
-This is useful when you do not have internet access or only need basic title and artist tags.
-
-## Custom Output Folder
-
-To move successful files somewhere else:
-
-```bash
-python3 Music/musicmeta/metadata_update.py --output /path/to/output
-```
-
-## Supported Audio Types
-
-The script currently processes:
-
-```text
-.opus
-.m4a
-.mp3
-.flac
-.ogg
-```
-
-Other files are ignored.
-
-## Notes
-
-MusicBrainz lookups are cached in `.musicbrainz_cache.json` to avoid repeated API calls for the same title and artist.
-
-If MusicBrainz cannot be reached, the script still writes title and artist metadata from the filename and moves the file after successful tagging.
-
-If a file remains in `songs/`, check that its name follows:
-
-```text
-title_artist.ext
-```
+If you hit issues, files that failed tagging stay in `songs/` so you can fix filenames or retry.
