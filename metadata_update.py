@@ -13,6 +13,7 @@ from dataclasses import dataclass, fields, replace
 from rapidfuzz import fuzz
 from pathlib import Path
 
+from mutagen.mp4 import MP4, MP4Cover
 import requests
 
 
@@ -762,10 +763,74 @@ def ffmpeg_metadata_args(track: TrackMetadata) -> list[str]:
     return args
 
 
-def ffmpeg_container_args(path: Path) -> list[str]:
-    if path.suffix.lower() in MP4_EXTENSIONS:
-        return ["-movflags", "use_metadata_tags"]
-    return []
+def is_mp4_audio(path: Path) -> bool:
+    return path.suffix.lower() in MP4_EXTENSIONS
+
+
+def numeric_tag_part(value: str) -> int:
+    match = re.search(r"\d+", value or "")
+    return int(match.group(0)) if match else 0
+
+
+def cover_image_format(path: Path) -> int:
+    with path.open("rb") as handle:
+        header = handle.read(8)
+    if header.startswith(b"\x89PNG\r\n\x1a\n"):
+        return MP4Cover.FORMAT_PNG
+    return MP4Cover.FORMAT_JPEG
+
+
+def set_mp4_text_tag(tags: dict, atom: str, value: str) -> None:
+    if value:
+        tags[atom] = [value]
+    else:
+        tags.pop(atom, None)
+
+
+def set_mp4_freeform_tag(tags: dict, name: str, value: str) -> None:
+    atom = f"----:com.apple.iTunes:{name}"
+    if value:
+        tags[atom] = [value.encode("utf-8")]
+    else:
+        tags.pop(atom, None)
+
+
+def write_mp4_itunes_tags(path: Path, track: TrackMetadata, cover: Path | None) -> None:
+    audio = MP4(path)
+    if audio.tags is None:
+        audio.add_tags()
+
+    tags = audio.tags
+    set_mp4_text_tag(tags, "\xa9nam", track.title)
+    set_mp4_text_tag(tags, "\xa9ART", track.artist)
+    set_mp4_text_tag(tags, "\xa9alb", track.album)
+    set_mp4_text_tag(tags, "aART", track.album_artist or track.artist)
+    set_mp4_text_tag(tags, "\xa9day", track.date)
+    set_mp4_text_tag(tags, "\xa9gen", track.genre)
+
+    track_number = numeric_tag_part(track.track)
+    total_tracks = numeric_tag_part(track.total_tracks)
+    if track_number:
+        tags["trkn"] = [(track_number, total_tracks)]
+    else:
+        tags.pop("trkn", None)
+
+    disc_number = numeric_tag_part(track.disc)
+    if disc_number:
+        tags["disk"] = [(disc_number, 0)]
+    else:
+        tags.pop("disk", None)
+
+    if cover:
+        tags["covr"] = [MP4Cover(cover.read_bytes(), imageformat=cover_image_format(cover))]
+    else:
+        tags.pop("covr", None)
+
+    set_mp4_freeform_tag(tags, "ISRC", track.isrc)
+    set_mp4_freeform_tag(tags, "MusicBrainz Track Id", track.recording_id)
+    set_mp4_freeform_tag(tags, "MusicBrainz Album Id", track.release_id)
+    set_mp4_freeform_tag(tags, "musicmeta_version", CACHE_VERSION)
+    audio.save()
 
 
 def write_metadata(track: TrackMetadata, include_cover: bool = True) -> None:
@@ -774,6 +839,7 @@ def write_metadata(track: TrackMetadata, include_cover: bool = True) -> None:
         temp_path.unlink()
 
     cover = download_cover(track.release_id) if include_cover else None
+    mp4_audio = is_mp4_audio(track.path)
 
     command = [
         "ffmpeg",
@@ -785,7 +851,7 @@ def write_metadata(track: TrackMetadata, include_cover: bool = True) -> None:
         str(track.path),
     ]
 
-    if cover:
+    if cover and not mp4_audio:
         command += [
             "-i",
             str(cover),
@@ -796,7 +862,7 @@ def write_metadata(track: TrackMetadata, include_cover: bool = True) -> None:
         "0:a",
     ]
 
-    if cover:
+    if cover and not mp4_audio:
         command += [
             "-map",
             "1",
@@ -811,16 +877,25 @@ def write_metadata(track: TrackMetadata, include_cover: bool = True) -> None:
         "copy",
         "-map_metadata",
         "-1",
-        *ffmpeg_metadata_args(track),
-        *ffmpeg_container_args(temp_path),
         str(temp_path),
     ]
+
+    if not mp4_audio:
+        command[-1:-1] = ffmpeg_metadata_args(track)
 
     result = subprocess.run(command, text=True, capture_output=True)
     if result.returncode:
         if temp_path.exists():
             temp_path.unlink()
         raise RuntimeError(f"ffmpeg failed for {track.path}: {result.stderr.strip()}")
+
+    if mp4_audio:
+        try:
+            write_mp4_itunes_tags(temp_path, track, cover)
+        except Exception:
+            if temp_path.exists():
+                temp_path.unlink()
+            raise
 
     os.replace(temp_path, track.path)
 

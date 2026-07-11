@@ -8,7 +8,7 @@
 4. Run `metadata_update.py`.
 5. Use the enriched files from `musicmeta/meta-enriched` back into your music app for subscription free music.
 
-The script updates your audio files with usable embedded metadata for media player apps such as Apple Music, iTunes, MusicBee, Plexamp, and similar libraries.
+The script updates your audio files with usable embedded metadata for media player apps such as Apple Music, iTunes, MusicBee, Plexamp, and similar libraries. For `.m4a` files it writes Apple/iTunes MP4 atoms such as `©nam`, `©ART`, `©alb`, `aART`, `trkn`, `disk`, and `covr` instead of generic `mdta` keys.
 
 `songs/` is the intake folder. Put new downloads there.
 
@@ -63,7 +63,7 @@ Verify every file in `meta-enriched/` has the core playable-library tags:
 python3 misc/metadata_test.py --verify
 ```
 
-Check which files still need the latest `v4` updater metadata and MusicBrainz-grade tags:
+Check which files still need the latest `v4` updater metadata, MusicBrainz-grade tags, and Apple-compatible `.m4a` atoms:
 
 ```bash
 python3 misc/metadata_test.py --verify --strict-v4

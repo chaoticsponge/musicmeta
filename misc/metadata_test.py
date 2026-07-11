@@ -8,11 +8,14 @@ from collections import Counter
 from dataclasses import asdict, dataclass
 from pathlib import Path
 
+from mutagen.mp4 import MP4
+
 
 APP_DIR = Path(__file__).resolve().parent.parent
 SONGS_DIR = APP_DIR / "songs"
 ENRICHED_DIR = APP_DIR / "meta-enriched"
 AUDIO_EXTENSIONS = {".opus", ".m4a", ".mp3", ".flac", ".ogg"}
+MP4_EXTENSIONS = {".m4a", ".mp4", ".m4b", ".mov"}
 
 TAG_FIELDS = (
     "title",
@@ -41,6 +44,18 @@ STRICT_V4_REQUIRED_FIELDS = (
     "musicmeta_version",
 )
 V4_RECOMMENDED_FIELDS = ("date", "track", "totaltracks", "disc", "genre", "isrc")
+MP4_STRICT_REQUIRED_ATOMS = {
+    "\xa9nam": "title atom ©nam",
+    "\xa9ART": "artist atom ©ART",
+    "\xa9alb": "album atom ©alb",
+    "aART": "album artist atom aART",
+}
+MP4_FREEFORM_FIELDS = {
+    "isrc": "ISRC",
+    "musicbrainz_trackid": "MusicBrainz Track Id",
+    "musicbrainz_albumid": "MusicBrainz Album Id",
+    "musicmeta_version": "musicmeta_version",
+}
 
 
 @dataclass(frozen=True)
@@ -60,6 +75,9 @@ class MetadataRow:
     musicbrainz_trackid: str = ""
     musicbrainz_albumid: str = ""
     musicmeta_version: str = ""
+    mp4_missing_atoms: str = ""
+    mp4_has_numbered_mdta: bool = False
+    mp4_tag_error: str = ""
     error: str = ""
 
 
@@ -136,6 +154,63 @@ def flatten_tags(data: dict) -> dict[str, str]:
     return tags
 
 
+def first_mp4_text(tags: dict, atom: str) -> str:
+    values = tags.get(atom)
+    if not values:
+        return ""
+    return str(values[0])
+
+
+def first_mp4_freeform(tags: dict, name: str) -> str:
+    values = tags.get(f"----:com.apple.iTunes:{name}")
+    if not values:
+        return ""
+
+    value = values[0]
+    if isinstance(value, bytes):
+        return value.decode("utf-8", errors="replace").strip("\x00")
+    return str(value)
+
+
+def read_mp4_itunes_metadata(path: Path) -> tuple[dict[str, str], dict[str, object]]:
+    audio = MP4(path)
+    tags = audio.tags or {}
+
+    values = {
+        "title": first_mp4_text(tags, "\xa9nam"),
+        "artist": first_mp4_text(tags, "\xa9ART"),
+        "album": first_mp4_text(tags, "\xa9alb"),
+        "album_artist": first_mp4_text(tags, "aART"),
+        "date": first_mp4_text(tags, "\xa9day"),
+        "genre": first_mp4_text(tags, "\xa9gen"),
+    }
+
+    tracks = tags.get("trkn") or []
+    if tracks:
+        track_number, total_tracks = tracks[0]
+        values["track"] = str(track_number) if track_number else ""
+        values["totaltracks"] = str(total_tracks) if total_tracks else ""
+
+    discs = tags.get("disk") or []
+    if discs:
+        disc_number, _total_discs = discs[0]
+        values["disc"] = str(disc_number) if disc_number else ""
+
+    for field, freeform_name in MP4_FREEFORM_FIELDS.items():
+        values[field] = first_mp4_freeform(tags, freeform_name)
+
+    missing_atoms = [
+        description
+        for atom, description in MP4_STRICT_REQUIRED_ATOMS.items()
+        if atom not in tags
+    ]
+    style = {
+        "mp4_missing_atoms": ", ".join(missing_atoms),
+        "mp4_has_numbered_mdta": any(key.startswith("\x00\x00\x00") for key in tags),
+    }
+    return {key: value for key, value in values.items() if value}, style
+
+
 def read_metadata(path: Path, location: str) -> MetadataRow:
     try:
         tags = flatten_tags(ffprobe(path))
@@ -145,7 +220,16 @@ def read_metadata(path: Path, location: str) -> MetadataRow:
         return MetadataRow(file=path.name, location=location, error=str(exc))
 
     values = {field: tags.get(field, "") for field in TAG_FIELDS}
-    return MetadataRow(file=path.name, location=location, **values)
+    style: dict[str, object] = {}
+
+    if path.suffix.lower() in MP4_EXTENSIONS:
+        try:
+            mp4_values, style = read_mp4_itunes_metadata(path)
+            values.update(mp4_values)
+        except Exception as exc:
+            style["mp4_tag_error"] = str(exc)
+
+    return MetadataRow(file=path.name, location=location, **values, **style)
 
 
 def collect_metadata() -> dict[str, dict[str, MetadataRow]]:
@@ -198,6 +282,35 @@ def verify_row(row: MetadataRow, strict_v4: bool) -> list[VerificationIssue]:
         )
 
     if strict_v4:
+        if Path(row.file).suffix.lower() in MP4_EXTENSIONS:
+            if row.mp4_tag_error:
+                issues.append(
+                    VerificationIssue(
+                        file=row.file,
+                        severity="error",
+                        field="mp4",
+                        message=f"cannot inspect MP4 atoms: {row.mp4_tag_error}",
+                    )
+                )
+            if row.mp4_missing_atoms:
+                issues.append(
+                    VerificationIssue(
+                        file=row.file,
+                        severity="error",
+                        field="mp4_atoms",
+                        message=f"missing Apple/iTunes atoms: {row.mp4_missing_atoms}",
+                    )
+                )
+            if row.mp4_has_numbered_mdta:
+                issues.append(
+                    VerificationIssue(
+                        file=row.file,
+                        severity="error",
+                        field="mp4_mdta",
+                        message="uses numbered mdta keys instead of Apple/iTunes atoms",
+                    )
+                )
+
         for field in V4_RECOMMENDED_FIELDS:
             value = getattr(row, field)
             if not value:
