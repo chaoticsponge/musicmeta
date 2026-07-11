@@ -1,3 +1,10 @@
 __pycache__/
 *.pyc
 .musicbrainz_cache.json
+.cover_cache/
+songs/
+meta-enriched/
+covers/
+!songs/.gitkeep
+!meta-enriched/.gitkeep
+!covers/.gitkeep

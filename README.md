@@ -33,7 +33,7 @@ cd musicmeta
 # macOS / Linux
 python3 --version
 brew install ffmpeg   # or apt/yum as appropriate
-python3 -m pip install requests
+python3 -m pip install -r requirements.txt
 ```
 
 3. Install Stacher and set the filename template to `title_artist.ext`:
@@ -57,6 +57,18 @@ python3 metadata_update.py
 python3 misc/metadata_test.py
 ```
 
+Verify every file in `meta-enriched/` has the core playable-library tags:
+
+```bash
+python3 misc/metadata_test.py --verify
+```
+
+Check which files still need the latest `v4` updater metadata and MusicBrainz-grade tags:
+
+```bash
+python3 misc/metadata_test.py --verify --strict-v4
+```
+
 Example test run:
 
 ![Test run after enrichment](misc/post-run.png)
@@ -67,6 +79,22 @@ Example test run:
 python3 metadata_update.py --output /path/to/where/you/want/files
 ```
 
+For a faster metadata-only run that skips cover art downloads:
+
+```bash
+python3 metadata_update.py --no-cover
+```
+
 Supported formats: `.opus`, `.m4a`, `.mp3`, `.flac`, `.ogg`.
 
 If you hit issues, files that failed tagging stay in `songs/` so you can fix filenames or retry.
+
+```bash
+find . -name "*.opus" -print0 | parallel -0 ffmpeg -y -i {} -map_metadata 0 -c:a aac -b:a 256k {.}.m4a
+```
+
+to bulk convert .opus to .m4a files using GNU Parallel
+
+```bash
+brew install parallel
+```
