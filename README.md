@@ -51,7 +51,33 @@ python3 -m pip install -r requirements.txt
 python3 metadata_update.py
 ```
 
-6. If you want to inspect before/after metadata quickly:
+6. Add lyrics from LRCLIB:
+
+```bash
+python3 add_lyrics.py
+```
+
+By default this reads `meta-enriched/`, saves cached sidecar lyrics in `lyrics/`, and embeds lyrics directly into the audio files so you do not have to add them manually. MP3 files get ID3 `USLT` frames, plus `SYLT` frames when LRCLIB has synced lyrics. M4A/AAC files get the Apple-style `©lyr` atom. Synced LRCLIB lyrics are also saved as `.lrc` files when available. To fetch sidecar files without touching audio tags:
+
+```bash
+python3 add_lyrics.py --no-embed
+```
+
+Lyrics lookup is ordered for general success first: local `lyrics/` cache, LRCLIB exact metadata lookup, LRCLIB search, then a Hymnary.org public-domain text fallback for hymn-like tracks. Anything still unresolved is written to `lyrics/missing_lyrics.md` with fallback links for LRCLIB, Hymnary.org, Open Hymnal Project, and MusicBrainz Picard plugins.
+
+Files that already have embedded lyrics are skipped by default. Use `--force` or `--refresh` to reprocess them. For a faster lyrics run on macOS, use the built-in worker pool instead of GNU Parallel:
+
+```bash
+python3 add_lyrics.py --jobs 4
+```
+
+Provider requests are still paced globally. If lookups feel slow and you are not seeing rate-limit errors, you can lower the request start interval a little:
+
+```bash
+python3 add_lyrics.py --jobs 4 --request-interval 0.25
+```
+
+7. If you want to inspect before/after metadata quickly:
 
 ```bash
 python3 misc/metadata_test.py
@@ -73,7 +99,7 @@ Example test run:
 
 ![Test run after enrichment](misc/post-run.png)
 
-7. Optional: move output elsewhere when running the updater:
+8. Optional: move output elsewhere when running the updater:
 
 ```bash
 python3 metadata_update.py --output /path/to/where/you/want/files

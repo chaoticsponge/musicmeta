@@ -143,6 +143,15 @@ YOUTUBE_TITLE_PATTERNS = (
     r"\s*[-|:]*\s*hd\s*$",
     r"\s*[-|:]*\s*4k\s*$",
 )
+TITLE_TRAILING_JUNK_PATTERNS = (
+    r"\s*(?:\(|\[)?\s*lyrics?\s*(?:\)|\])?\s*$",
+    r"\s*(?:\(|\[)?\s*song\s*(?:\)|\])?\s*$",
+    r"\s*(?:\(|\[)?\s*hymn\s*(?:\)|\])?\s*$",
+    r"\s*(?:\(|\[)?\s*choir\s*(?:\)|\])?\s*$",
+    r"\s*(?:\(|\[)?\s*music\s*(?:\)|\])?\s*$",
+    r"\s*(?:\(|\[)?\s*video\s*(?:\)|\])?\s*$",
+    r"\s*(?:\(|\[)?\s*official\s*(?:\)|\])?\s*$",
+)
 
 
 @dataclass(frozen=True)
@@ -242,11 +251,15 @@ def clean_lookup_value(value: str) -> str:
 def clean_download_name(value: str) -> str:
     value = normalize_download_text(value)
     value = re.split(r"\s*[\[(（【]", value, maxsplit=1)[0]
+    value = re.sub(r"(?i)([a-z])ft\.", r"\1 ft.", value)
+    value = re.sub(r"(?i)([a-z])feat\.", r"\1 feat.", value)
     for pattern in YOUTUBE_TITLE_PATTERNS:
         value = re.sub(pattern, "", value, flags=re.IGNORECASE)
     value = re.sub(r"\s*[|/]\s*$", "", value)
     value = re.sub(r"\s*[-–—_:]+\s*$", "", value)
     value = re.sub(r"\s+[-–—_:]+\s+", " - ", value)
+    for pattern in TITLE_TRAILING_JUNK_PATTERNS:
+        value = re.sub(pattern, "", value, flags=re.IGNORECASE)
     value = re.sub(r"\s+", " ", value)
     return value.strip(" -–—_:：")
 
