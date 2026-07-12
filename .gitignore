@@ -5,6 +5,8 @@ __pycache__/
 songs/
 meta-enriched/
 covers/
+lyrics/
 !songs/.gitkeep
 !meta-enriched/.gitkeep
 !covers/.gitkeep
+!lyrics/.gitkeep

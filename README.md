@@ -1,126 +1,72 @@
 # musicmeta
 
-`musicmeta` is a small workflow for getting off the apple music subscription or just updating your music's metadata.
+`musicmeta` tags audio files in `songs/`, moves finished files to `meta-enriched/`, and can add lyrics automatically.
 
-1. Head to [Apple's Privacy Page](https://privacy.apple.com) and transfer a copy of your data to youtube music. You can now choose to stay on youtube music or continue:
-2. Unlist your playlist on YouTube and download the playlist with [Stacher](https://stacher.io).
-3. Save the downloaded audio files into `musicmeta/songs`.
-4. Run `metadata_update.py`.
-5. Use the enriched files from `musicmeta/meta-enriched` back into your music app for subscription free music.
+## What goes where
 
-The script updates your audio files with usable embedded metadata for media player apps such as Apple Music, iTunes, MusicBee, Plexamp, and similar libraries. For `.m4a` files it writes Apple/iTunes MP4 atoms such as `©nam`, `©ART`, `©alb`, `aART`, `trkn`, `disk`, and `covr` instead of generic `mdta` keys.
+- `songs/`: input files
+- `meta-enriched/`: successful output
+- `lyrics/`: generated lyric cache and missing-lyrics reports
 
-`songs/` is the intake folder. Put new downloads there.
-
-`meta-enriched/` is the success folder. Files are moved here only after metadata is written successfully.
-
-Files that fail parsing, tagging, or lookup stay in `songs/` so they can be fixed and rerun.
-
-## Quick Start
-
-Copy-paste the minimal steps below to get started.
-
-1. Clone the repo:
+## Quick start
 
 ```bash
 git clone https://github.com/chaoticsponge/musicmeta
 cd musicmeta
-```
-
-2. Install prerequisites:
-
-```bash
-# macOS / Linux
-python3 --version
-brew install ffmpeg   # or apt/yum as appropriate
 python3 -m pip install -r requirements.txt
+brew install ffmpeg
 ```
 
-3. Install Stacher and set the filename template to `title_artist.ext`:
-
-- https://stacher.io
-- Set the filename template to: `title_artist.ext` (the underscore separates title and artist).
-
-![Stacher filename template](misc/template.png)
-
-4. Put downloaded audio files into `songs/`.
-
-5. Enrich metadata:
+Put your audio files in `songs/`, then run:
 
 ```bash
 python3 metadata_update.py
-```
-
-6. Add lyrics from LRCLIB:
-
-```bash
 python3 add_lyrics.py
 ```
 
-By default this reads `meta-enriched/`, saves cached sidecar lyrics in `lyrics/`, and embeds lyrics directly into the audio files so you do not have to add them manually. MP3 files get ID3 `USLT` frames, plus `SYLT` frames when LRCLIB has synced lyrics. M4A/AAC files get the Apple-style `©lyr` atom. Synced LRCLIB lyrics are also saved as `.lrc` files when available. To fetch sidecar files without touching audio tags:
+Files that are tagged successfully are moved to `meta-enriched/`. Files that fail stay in `songs/` so you can fix the names and try again.
 
-```bash
-python3 add_lyrics.py --no-embed
-```
+## Supported files
 
-Lyrics lookup is ordered for general success first: local `lyrics/` cache, LRCLIB exact metadata lookup, LRCLIB search, then a Hymnary.org public-domain text fallback for hymn-like tracks. Anything still unresolved is written to `lyrics/missing_lyrics.md` with fallback links for LRCLIB, Hymnary.org, Open Hymnal Project, and MusicBrainz Picard plugins.
+`.opus`, `.m4a`, `.mp3`, `.flac`, `.ogg`
 
-Files that already have embedded lyrics are skipped by default. Use `--force` or `--refresh` to reprocess them. For a faster lyrics run on macOS, use the built-in worker pool instead of GNU Parallel:
+## Lyrics
+
+Lyrics are fetched automatically and embedded into the file.
+
+- MP3: ID3 `USLT` and `SYLT`
+- M4A/AAC: Apple `©lyr`
+- Cached sidecar lyrics are written to `lyrics/`
+
+Already-tagged lyrics are skipped by default. Use `--force` or `--refresh` to reprocess them.
+
+Fast run on a typical Mac:
 
 ```bash
 python3 add_lyrics.py --jobs 4
 ```
 
-Provider requests are still paced globally. If lookups feel slow and you are not seeing rate-limit errors, you can lower the request start interval a little:
+## Useful options
 
-```bash
-python3 add_lyrics.py --jobs 4 --request-interval 0.25
-```
-
-7. If you want to inspect before/after metadata quickly:
-
-```bash
-python3 misc/metadata_test.py
-```
-
-Verify every file in `meta-enriched/` has the core playable-library tags:
-
-```bash
-python3 misc/metadata_test.py --verify
-```
-
-Check which files still need the latest `v4` updater metadata, MusicBrainz-grade tags, and Apple-compatible `.m4a` atoms:
-
-```bash
-python3 misc/metadata_test.py --verify --strict-v4
-```
-
-Example test run:
-
-![Test run after enrichment](misc/post-run.png)
-
-8. Optional: move output elsewhere when running the updater:
-
-```bash
-python3 metadata_update.py --output /path/to/where/you/want/files
-```
-
-For a faster metadata-only run that skips cover art downloads:
+Skip cover art:
 
 ```bash
 python3 metadata_update.py --no-cover
 ```
 
-Supported formats: `.opus`, `.m4a`, `.mp3`, `.flac`, `.ogg`.
-
-If you hit issues, files that failed tagging stay in `songs/` so you can fix filenames or retry.
+Move output somewhere else:
 
 ```bash
-find . -name "*.opus" -print0 | parallel -0 ffmpeg -y -i {} -map_metadata 0 -c:a aac -b:a 256k {.}.m4a
+python3 metadata_update.py --output /path/to/output
 ```
 
-to bulk convert .opus to .m4a files using GNU Parallel
+Verify the library:
 
 ```bash
-brew install parallel
+python3 misc/metadata_test.py --verify
+python3 misc/metadata_test.py --verify --strict-v4
 ```
+
+## Notes
+
+For best results, keep filenames close to `Title_Artist.ext`. The updater will do some cleanup, but clearer names produce better MusicBrainz matches.

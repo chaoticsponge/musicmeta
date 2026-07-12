@@ -7,1322 +7,818 @@ Provider order used by add_lyrics.py:
 4. Hymnary.org public-domain text fallback for hymn-like tracks
 5. Report-only links for Open Hymnal Project and MusicBrainz Picard plugins
 
-## Cath…_Death Cab for Cutie.mp3
+## Hear My Cry.m4a
 - Reason: no LRCLIB search match
-- Metadata: Cath... - Death Cab for Cutie
-- LRCLIB API search: https://lrclib.net/api/search?track_name=Cath...&artist_name=Death+Cab+for+Cutie
-- Hymnary.org text search: https://hymnary.org/search?qu=Cath...+in%3Atexts
+- Metadata: Hear My Cry - Chadash Ministries
+- LRCLIB API search: https://lrclib.net/api/search?track_name=Hear+My+Cry&artist_name=Chadash+Ministries
+- Hymnary.org text search: https://hymnary.org/search?qu=Hear+My+Cry+in%3Atexts
 - Open Hymnal Project: https://openhymnal.org/
 - MusicBrainz Picard plugins: https://picard.musicbrainz.org/plugins/
 
-## Are You Gonna Be My Girl.m4a
+## Bill & Gloria Gaither - There Is a Riverft. Gaither Vocal Band.m4a
 - Reason: no LRCLIB search match
-- Metadata: Are You Gonna Be My Girl - Zach, Ben, Dom
-- LRCLIB API search: https://lrclib.net/api/search?track_name=Are+You+Gonna+Be+My+Girl&artist_name=Zach%2C+Ben%2C+Dom
-- Hymnary.org text search: https://hymnary.org/search?qu=Are+You+Gonna+Be+My+Girl+in%3Atexts
+- Metadata: There Is A River - Bill & Gloria Gaither and their Homecoming Friends, Gaither Vocal Band
+- LRCLIB API search: https://lrclib.net/api/search?track_name=There+Is+A+River&artist_name=Bill+%26+Gloria+Gaither+and+their+Homecoming+Friends%2C+Gaither+Vocal+Band
+- Hymnary.org text search: https://hymnary.org/search?qu=There+Is+A+River+in%3Atexts
 - Open Hymnal Project: https://openhymnal.org/
 - MusicBrainz Picard plugins: https://picard.musicbrainz.org/plugins/
 
-## Akatsuki.m4a
+## All that I am.m4a
 - Reason: no LRCLIB search match
-- Metadata: Akatsuki - PE'Z
-- LRCLIB API search: https://lrclib.net/api/search?track_name=Akatsuki&artist_name=PE%27Z
-- Hymnary.org text search: https://hymnary.org/search?qu=Akatsuki+in%3Atexts
+- Metadata: All That I Am - icf-nürnberg
+- LRCLIB API search: https://lrclib.net/api/search?track_name=All+That+I+Am&artist_name=icf-n%C3%BCrnberg
+- Hymnary.org text search: https://hymnary.org/search?qu=All+That+I+Am+in%3Atexts
 - Open Hymnal Project: https://openhymnal.org/
 - MusicBrainz Picard plugins: https://picard.musicbrainz.org/plugins/
 
-## Angreifer.m4a
+## I Will Never Forget You, My People (Isaiah 49).m4a
 - Reason: no LRCLIB search match
-- Metadata: Angreifer - Unlucky Morpheus
-- LRCLIB API search: https://lrclib.net/api/search?track_name=Angreifer&artist_name=Unlucky+Morpheus
-- Hymnary.org text search: https://hymnary.org/search?qu=Angreifer+in%3Atexts
+- Metadata: I Will Never Forget You My People - Marilla Ness
+- LRCLIB API search: https://lrclib.net/api/search?track_name=I+Will+Never+Forget+You+My+People&artist_name=Marilla+Ness
+- Hymnary.org text search: https://hymnary.org/search?qu=I+Will+Never+Forget+You+My+People+in%3Atexts
 - Open Hymnal Project: https://openhymnal.org/
 - MusicBrainz Picard plugins: https://picard.musicbrainz.org/plugins/
 
-## Big Love.m4a
+## Kum Ba Yah (Kumbaya My Lord).m4a
 - Reason: no LRCLIB search match
-- Metadata: Big Love - DJ Fresh
-- LRCLIB API search: https://lrclib.net/api/search?track_name=Big+Love&artist_name=DJ+Fresh
-- Hymnary.org text search: https://hymnary.org/search?qu=Big+Love+in%3Atexts
+- Metadata: Kum Ba Yah - Rob Arthur, Joel Sayles, Kenni Holmen, David Livingston, Carolyn Boulay, Judy Dow, Emanuel Kiriakou
+- LRCLIB API search: https://lrclib.net/api/search?track_name=Kum+Ba+Yah&artist_name=Rob+Arthur%2C+Joel+Sayles%2C+Kenni+Holmen%2C+David+Livingston%2C+Carolyn+Boulay%2C+Judy+Dow%2C+Emanuel+Kiriakou
+- Hymnary.org text search: https://hymnary.org/search?qu=Kum+Ba+Yah+in%3Atexts
 - Open Hymnal Project: https://openhymnal.org/
 - MusicBrainz Picard plugins: https://picard.musicbrainz.org/plugins/
 
-## Bloody Angel_Avatar, Johannes Eckerström, John Alfredsson, Tim Öhrström, Jonas Jarlsby, Henrik Sandelin, Magnus Lundbäck.m4a
+## Abba, Father (You Are The Potter).m4a
 - Reason: no LRCLIB search match
-- Metadata: Bloody Angel - Avatar
-- LRCLIB API search: https://lrclib.net/api/search?track_name=Bloody+Angel&artist_name=Avatar
-- Hymnary.org text search: https://hymnary.org/search?qu=Bloody+Angel+in%3Atexts
+- Metadata: Abba Father - Sherri Youngward
+- LRCLIB API search: https://lrclib.net/api/search?track_name=Abba+Father&artist_name=Sherri+Youngward
+- Hymnary.org text search: https://hymnary.org/search?qu=Abba+Father+in%3Atexts
 - Open Hymnal Project: https://openhymnal.org/
 - MusicBrainz Picard plugins: https://picard.musicbrainz.org/plugins/
 
-## A Love Like War (feat. Vic Fuentes).m4a
-- Reason: no confident LRCLIB search match
-- Metadata: A Love Like War - 8-Bit Misfits
-- LRCLIB API search: https://lrclib.net/api/search?track_name=A+Love+Like+War&artist_name=8-Bit+Misfits
-- Hymnary.org text search: https://hymnary.org/search?qu=A+Love+Like+War+in%3Atexts
-- Open Hymnal Project: https://openhymnal.org/
-- MusicBrainz Picard plugins: https://picard.musicbrainz.org/plugins/
-
-## Crystals_Of Monsters and Men.m4a
-- Reason: no LRCLIB search match
-- Metadata: Crystals - Of Monsters and Men
-- LRCLIB API search: https://lrclib.net/api/search?track_name=Crystals&artist_name=Of+Monsters+and+Men
-- Hymnary.org text search: https://hymnary.org/search?qu=Crystals+in%3Atexts
-- Open Hymnal Project: https://openhymnal.org/
-- MusicBrainz Picard plugins: https://picard.musicbrainz.org/plugins/
-
-## Alone Together.m4a
-- Reason: no LRCLIB search match
-- Metadata: Alone Together - Nelson Eddy
-- LRCLIB API search: https://lrclib.net/api/search?track_name=Alone+Together&artist_name=Nelson+Eddy
-- Hymnary.org text search: https://hymnary.org/search?qu=Alone+Together+in%3Atexts
-- Open Hymnal Project: https://openhymnal.org/
-- MusicBrainz Picard plugins: https://picard.musicbrainz.org/plugins/
-
-## A Lack of Color_Death Cab for Cutie.m4a
-- Reason: no LRCLIB search match
-- Metadata: A Lack of Color - Death Cab for Cutie
-- LRCLIB API search: https://lrclib.net/api/search?track_name=A+Lack+of+Color&artist_name=Death+Cab+for+Cutie
-- Hymnary.org text search: https://hymnary.org/search?qu=A+Lack+of+Color+in%3Atexts
-- Open Hymnal Project: https://openhymnal.org/
-- MusicBrainz Picard plugins: https://picard.musicbrainz.org/plugins/
-
-## Bad Habit_Steve Lacy.m4a
-- Reason: no LRCLIB search match
-- Metadata: Bad Habit - Steve Lacy
-- LRCLIB API search: https://lrclib.net/api/search?track_name=Bad+Habit&artist_name=Steve+Lacy
-- Hymnary.org text search: https://hymnary.org/search?qu=Bad+Habit+in%3Atexts
-- Open Hymnal Project: https://openhymnal.org/
-- MusicBrainz Picard plugins: https://picard.musicbrainz.org/plugins/
-
-## Dance Macabre.m4a
-- Reason: no LRCLIB search match
-- Metadata: Dance Macabre - Willem Vermandere
-- LRCLIB API search: https://lrclib.net/api/search?track_name=Dance+Macabre&artist_name=Willem+Vermandere
-- Hymnary.org text search: https://hymnary.org/search?qu=Dance+Macabre+in%3Atexts
-- Open Hymnal Project: https://openhymnal.org/
-- MusicBrainz Picard plugins: https://picard.musicbrainz.org/plugins/
-
-## Believer.m4a
-- Reason: no LRCLIB search match
-- Metadata: Believer - My TV Is Dead
-- LRCLIB API search: https://lrclib.net/api/search?track_name=Believer&artist_name=My+TV+Is+Dead
-- Hymnary.org text search: https://hymnary.org/search?qu=Believer+in%3Atexts
-- Open Hymnal Project: https://openhymnal.org/
-- MusicBrainz Picard plugins: https://picard.musicbrainz.org/plugins/
-
-## A Love Like War (feat. Vic Fuentes).mp3
-- Reason: no confident LRCLIB search match
-- Metadata: A Love Like War - 8-Bit Misfits
-- LRCLIB API search: https://lrclib.net/api/search?track_name=A+Love+Like+War&artist_name=8-Bit+Misfits
-- Hymnary.org text search: https://hymnary.org/search?qu=A+Love+Like+War+in%3Atexts
-- Open Hymnal Project: https://openhymnal.org/
-- MusicBrainz Picard plugins: https://picard.musicbrainz.org/plugins/
-
-## DOLBIT!_LXKERSON.m4a
-- Reason: no confident LRCLIB search match
-- Metadata: DOLBIT! - LXKERSON
-- LRCLIB API search: https://lrclib.net/api/search?track_name=DOLBIT%21&artist_name=LXKERSON
-- Hymnary.org text search: https://hymnary.org/search?qu=DOLBIT%21+in%3Atexts
-- Open Hymnal Project: https://openhymnal.org/
-- MusicBrainz Picard plugins: https://picard.musicbrainz.org/plugins/
-
-## Dry Hands_C418.m4a
-- Reason: no confident LRCLIB search match
-- Metadata: Dry Hands - C418
-- LRCLIB API search: https://lrclib.net/api/search?track_name=Dry+Hands&artist_name=C418
-- Hymnary.org text search: https://hymnary.org/search?qu=Dry+Hands+in%3Atexts
-- Open Hymnal Project: https://openhymnal.org/
-- MusicBrainz Picard plugins: https://picard.musicbrainz.org/plugins/
-
-## Die Your Daughter_Susannah Joffe, Cella Raiteri, Susannah Joffe.m4a
-- Reason: no LRCLIB search match
-- Metadata: Die Your Daughter - Susannah Joffe, Cella Raiteri
-- LRCLIB API search: https://lrclib.net/api/search?track_name=Die+Your+Daughter&artist_name=Susannah+Joffe%2C+Cella+Raiteri
-- Hymnary.org text search: https://hymnary.org/search?qu=Die+Your+Daughter+in%3Atexts
-- Open Hymnal Project: https://openhymnal.org/
-- MusicBrainz Picard plugins: https://picard.musicbrainz.org/plugins/
-
-## Blank and White.m4a
-- Reason: no LRCLIB search match
-- Metadata: Blank and White - Mark Clifford
-- LRCLIB API search: https://lrclib.net/api/search?track_name=Blank+and+White&artist_name=Mark+Clifford
-- Hymnary.org text search: https://hymnary.org/search?qu=Blank+and+White+in%3Atexts
-- Open Hymnal Project: https://openhymnal.org/
-- MusicBrainz Picard plugins: https://picard.musicbrainz.org/plugins/
-
-## Dig A Giant Hole_Jugboy, Elijah Wright, Elijah Wright.m4a
-- Reason: no LRCLIB search match
-- Metadata: Dig A Giant Hole - Jugboy, Elijah Wright
-- LRCLIB API search: https://lrclib.net/api/search?track_name=Dig+A+Giant+Hole&artist_name=Jugboy%2C+Elijah+Wright
-- Hymnary.org text search: https://hymnary.org/search?qu=Dig+A+Giant+Hole+in%3Atexts
-- Open Hymnal Project: https://openhymnal.org/
-- MusicBrainz Picard plugins: https://picard.musicbrainz.org/plugins/
-
-## Arabella.m4a
-- Reason: no LRCLIB search match
-- Metadata: Arabella - Jorma Kaukonen
-- LRCLIB API search: https://lrclib.net/api/search?track_name=Arabella&artist_name=Jorma+Kaukonen
-- Hymnary.org text search: https://hymnary.org/search?qu=Arabella+in%3Atexts
-- Open Hymnal Project: https://openhymnal.org/
-- MusicBrainz Picard plugins: https://picard.musicbrainz.org/plugins/
-
-## Edge_REZZ.m4a
-- Reason: no LRCLIB search match
-- Metadata: Edge - REZZ
-- LRCLIB API search: https://lrclib.net/api/search?track_name=Edge&artist_name=REZZ
-- Hymnary.org text search: https://hymnary.org/search?qu=Edge+in%3Atexts
-- Open Hymnal Project: https://openhymnal.org/
-- MusicBrainz Picard plugins: https://picard.musicbrainz.org/plugins/
-
-## A Lack of Color_Death Cab for Cutie.mp3
-- Reason: no LRCLIB search match
-- Metadata: A Lack of Color - Death Cab for Cutie
-- LRCLIB API search: https://lrclib.net/api/search?track_name=A+Lack+of+Color&artist_name=Death+Cab+for+Cutie
-- Hymnary.org text search: https://hymnary.org/search?qu=A+Lack+of+Color+in%3Atexts
-- Open Hymnal Project: https://openhymnal.org/
-- MusicBrainz Picard plugins: https://picard.musicbrainz.org/plugins/
-
-## Dreamer_Laufey, Spencer Stewart.m4a
-- Reason: no LRCLIB search match
-- Metadata: Dreamer - Laufey
-- LRCLIB API search: https://lrclib.net/api/search?track_name=Dreamer&artist_name=Laufey
-- Hymnary.org text search: https://hymnary.org/search?qu=Dreamer+in%3Atexts
-- Open Hymnal Project: https://openhymnal.org/
-- MusicBrainz Picard plugins: https://picard.musicbrainz.org/plugins/
-
-## Det var tre månader sedan idag_Säkert!.m4a
-- Reason: no LRCLIB search match
-- Metadata: Det var tre månader sedan idag - Säkert!
-- LRCLIB API search: https://lrclib.net/api/search?track_name=Det+var+tre+m%C3%A5nader+sedan+idag&artist_name=S%C3%A4kert%21
-- Hymnary.org text search: https://hymnary.org/search?qu=Det+var+tre+m%C3%A5nader+sedan+idag+in%3Atexts
-- Open Hymnal Project: https://openhymnal.org/
-- MusicBrainz Picard plugins: https://picard.musicbrainz.org/plugins/
-
-## Evil Morty Theme (For The Damaged Coda) (Epic Version)_Samuel Kim.m4a
-- Reason: no confident LRCLIB search match
-- Metadata: Evil Morty Theme (For the Damaged Coda) (epic version) - Samuel Kim
-- LRCLIB API search: https://lrclib.net/api/search?track_name=Evil+Morty+Theme+%28For+the+Damaged+Coda%29+%28epic+version%29&artist_name=Samuel+Kim
-- Hymnary.org text search: https://hymnary.org/search?qu=Evil+Morty+Theme+%28For+the+Damaged+Coda%29+%28epic+version%29+in%3Atexts
-- Open Hymnal Project: https://openhymnal.org/
-- MusicBrainz Picard plugins: https://picard.musicbrainz.org/plugins/
-
-## Bubblegum Bitch (Slowed)_ANGUISH, AmbVsh, ily.m4a
-- Reason: no LRCLIB search match
-- Metadata: Bubblegum Bitch (Slowed) - ANGUISH, AmbVsh, ily
-- LRCLIB API search: https://lrclib.net/api/search?track_name=Bubblegum+Bitch+%28Slowed%29&artist_name=ANGUISH%2C+AmbVsh%2C+ily
-- Hymnary.org text search: https://hymnary.org/search?qu=Bubblegum+Bitch+%28Slowed%29+in%3Atexts
-- Open Hymnal Project: https://openhymnal.org/
-- MusicBrainz Picard plugins: https://picard.musicbrainz.org/plugins/
-
-## G.O.A.T._Polyphia.m4a
-- Reason: no confident LRCLIB search match
-- Metadata: G.O.A.T. - Polyphia
-- LRCLIB API search: https://lrclib.net/api/search?track_name=G.O.A.T.&artist_name=Polyphia
-- Hymnary.org text search: https://hymnary.org/search?qu=G.O.A.T.+in%3Atexts
-- Open Hymnal Project: https://openhymnal.org/
-- MusicBrainz Picard plugins: https://picard.musicbrainz.org/plugins/
-
-## Grapevine Fires_Death Cab for Cutie.mp3
-- Reason: no LRCLIB search match
-- Metadata: Grapevine Fires - Death Cab for Cutie
-- LRCLIB API search: https://lrclib.net/api/search?track_name=Grapevine+Fires&artist_name=Death+Cab+for+Cutie
-- Hymnary.org text search: https://hymnary.org/search?qu=Grapevine+Fires+in%3Atexts
-- Open Hymnal Project: https://openhymnal.org/
-- MusicBrainz Picard plugins: https://picard.musicbrainz.org/plugins/
-
-## Brothers on a Hotel Bed_Death Cab for Cutie.mp3
-- Reason: no LRCLIB search match
-- Metadata: Brothers on a Hotel Bed - Death Cab for Cutie
-- LRCLIB API search: https://lrclib.net/api/search?track_name=Brothers+on+a+Hotel+Bed&artist_name=Death+Cab+for+Cutie
-- Hymnary.org text search: https://hymnary.org/search?qu=Brothers+on+a+Hotel+Bed+in%3Atexts
-- Open Hymnal Project: https://openhymnal.org/
-- MusicBrainz Picard plugins: https://picard.musicbrainz.org/plugins/
-
-## Hail the Apocalypse_Avatar, Johannes Eckerström, John Alfredsson, Tim Öhrström, Jonas Jarlsby, Henrik Sandelin, Magnus Lundbäck.m4a
-- Reason: no LRCLIB search match
-- Metadata: Hail the Apocalypse - Avatar
-- LRCLIB API search: https://lrclib.net/api/search?track_name=Hail+the+Apocalypse&artist_name=Avatar
-- Hymnary.org text search: https://hymnary.org/search?qu=Hail+the+Apocalypse+in%3Atexts
-- Open Hymnal Project: https://openhymnal.org/
-- MusicBrainz Picard plugins: https://picard.musicbrainz.org/plugins/
-
-## Electro Fight (Live)_OutworlD2.m4a
-- Reason: no LRCLIB search match
-- Metadata: Electro Fight (Live) - OutworlD2
-- LRCLIB API search: https://lrclib.net/api/search?track_name=Electro+Fight+%28Live%29&artist_name=OutworlD2
-- Hymnary.org text search: https://hymnary.org/search?qu=Electro+Fight+%28Live%29+in%3Atexts
-- Open Hymnal Project: https://openhymnal.org/
-- MusicBrainz Picard plugins: https://picard.musicbrainz.org/plugins/
-
-## Different Names for the Same Thing_Death Cab for Cutie.mp3
-- Reason: no LRCLIB search match
-- Metadata: Different Names for the Same Thing - Death Cab for Cutie
-- LRCLIB API search: https://lrclib.net/api/search?track_name=Different+Names+for+the+Same+Thing&artist_name=Death+Cab+for+Cutie
-- Hymnary.org text search: https://hymnary.org/search?qu=Different+Names+for+the+Same+Thing+in%3Atexts
-- Open Hymnal Project: https://openhymnal.org/
-- MusicBrainz Picard plugins: https://picard.musicbrainz.org/plugins/
-
-## Dynasty_Rina Sawayama.m4a
-- Reason: no LRCLIB search match
-- Metadata: Dynasty - Rina Sawayama
-- LRCLIB API search: https://lrclib.net/api/search?track_name=Dynasty&artist_name=Rina+Sawayama
-- Hymnary.org text search: https://hymnary.org/search?qu=Dynasty+in%3Atexts
-- Open Hymnal Project: https://openhymnal.org/
-- MusicBrainz Picard plugins: https://picard.musicbrainz.org/plugins/
-
-## I Bet My Life.m4a
-- Reason: no LRCLIB search match
-- Metadata: I Bet My Life - Baby Rockstar
-- LRCLIB API search: https://lrclib.net/api/search?track_name=I+Bet+My+Life&artist_name=Baby+Rockstar
-- Hymnary.org text search: https://hymnary.org/search?qu=I+Bet+My+Life+in%3Atexts
-- Open Hymnal Project: https://openhymnal.org/
-- MusicBrainz Picard plugins: https://picard.musicbrainz.org/plugins/
-
-## Hero_Skillet.m4a
-- Reason: no LRCLIB search match
-- Metadata: Hero - Skillet
-- LRCLIB API search: https://lrclib.net/api/search?track_name=Hero&artist_name=Skillet
-- Hymnary.org text search: https://hymnary.org/search?qu=Hero+in%3Atexts
-- Open Hymnal Project: https://openhymnal.org/
-- MusicBrainz Picard plugins: https://picard.musicbrainz.org/plugins/
-
-## I Will Follow You Into the Dark_Death Cab for Cutie.mp3
-- Reason: no LRCLIB search match
-- Metadata: I Will Follow You Into the Dark - Death Cab for Cutie
-- LRCLIB API search: https://lrclib.net/api/search?track_name=I+Will+Follow+You+Into+the+Dark&artist_name=Death+Cab+for+Cutie
-- Hymnary.org text search: https://hymnary.org/search?qu=I+Will+Follow+You+Into+the+Dark+in%3Atexts
-- Open Hymnal Project: https://openhymnal.org/
-- MusicBrainz Picard plugins: https://picard.musicbrainz.org/plugins/
-
-## Don't Say Goodbye_overrated, Gustav, Tove Lo, Ilkay Sencan, Alok Achkar Peres Petrillo, Hannah Wilson, Sander Van Der Waal, Robert Uhlmann, Tove Lo, Ilkay Sencan, Alok Achkar Peres Petrillo, Hannah Wilson, Sander Van Der Waal, Robert Uhlmann.m4a
-- Reason: no LRCLIB search match
-- Metadata: Don't Say Goodbye - overrated, Gustav, Tove Lo, Ilkay Sencan, Alok Achkar Peres Petrillo, Hannah Wilson, Sander Van Der Waal, Robert Uhlmann
-- LRCLIB API search: https://lrclib.net/api/search?track_name=Don%27t+Say+Goodbye&artist_name=overrated%2C+Gustav%2C+Tove+Lo%2C+Ilkay+Sencan%2C+Alok+Achkar+Peres+Petrillo%2C+Hannah+Wilson%2C+Sander+Van+Der+Waal%2C+Robert+Uhlmann
-- Hymnary.org text search: https://hymnary.org/search?qu=Don%27t+Say+Goodbye+in%3Atexts
-- Open Hymnal Project: https://openhymnal.org/
-- MusicBrainz Picard plugins: https://picard.musicbrainz.org/plugins/
-
-## I Was Made For Lovin' You_Kiss.m4a
-- Reason: no LRCLIB search match
-- Metadata: I Was Made for Lovin’ You - KISS
-- LRCLIB API search: https://lrclib.net/api/search?track_name=I+Was+Made+for+Lovin%E2%80%99+You&artist_name=KISS
-- Hymnary.org text search: https://hymnary.org/search?qu=I+Was+Made+for+Lovin%E2%80%99+You+in%3Atexts
-- Open Hymnal Project: https://openhymnal.org/
-- MusicBrainz Picard plugins: https://picard.musicbrainz.org/plugins/
-
-## House of Memories.m4a
-- Reason: no LRCLIB search match
-- Metadata: House of Memories - Chris Jones
-- LRCLIB API search: https://lrclib.net/api/search?track_name=House+of+Memories&artist_name=Chris+Jones
-- Hymnary.org text search: https://hymnary.org/search?qu=House+of+Memories+in%3Atexts
-- Open Hymnal Project: https://openhymnal.org/
-- MusicBrainz Picard plugins: https://picard.musicbrainz.org/plugins/
-
-## Glue Song (feat. Clairo)_beabadoobee, Clairo.m4a
-- Reason: no LRCLIB search match
-- Metadata: Glue Song - beabadoobee
-- LRCLIB API search: https://lrclib.net/api/search?track_name=Glue+Song&artist_name=beabadoobee
-- Hymnary.org text search: https://hymnary.org/search?qu=Glue+Song+in%3Atexts
-- Open Hymnal Project: https://openhymnal.org/
-- MusicBrainz Picard plugins: https://picard.musicbrainz.org/plugins/
-
-## GOZALO_DOCTOR TREE.m4a
-- Reason: no LRCLIB search match
-- Metadata: GOZALO - DOCTOR TREE
-- LRCLIB API search: https://lrclib.net/api/search?track_name=GOZALO&artist_name=DOCTOR+TREE
-- Hymnary.org text search: https://hymnary.org/search?qu=GOZALO+in%3Atexts
-- Open Hymnal Project: https://openhymnal.org/
-- MusicBrainz Picard plugins: https://picard.musicbrainz.org/plugins/
-
-## I'm Not A Vampire_Falling In Reverse.m4a
-- Reason: no LRCLIB search match
-- Metadata: I'm Not a Vampire - Falling in Reverse
-- LRCLIB API search: https://lrclib.net/api/search?track_name=I%27m+Not+a+Vampire&artist_name=Falling+in+Reverse
-- Hymnary.org text search: https://hymnary.org/search?qu=I%27m+Not+a+Vampire+in%3Atexts
-- Open Hymnal Project: https://openhymnal.org/
-- MusicBrainz Picard plugins: https://picard.musicbrainz.org/plugins/
-
-## International Love.m4a
-- Reason: no LRCLIB search match
-- Metadata: International Love - Winder
-- LRCLIB API search: https://lrclib.net/api/search?track_name=International+Love&artist_name=Winder
-- Hymnary.org text search: https://hymnary.org/search?qu=International+Love+in%3Atexts
-- Open Hymnal Project: https://openhymnal.org/
-- MusicBrainz Picard plugins: https://picard.musicbrainz.org/plugins/
-
-## In My Mind_Dynoro, Gigi D'Agostino.m4a
-- Reason: no LRCLIB search match
-- Metadata: In my mind - Dynoro
-- LRCLIB API search: https://lrclib.net/api/search?track_name=In+my+mind&artist_name=Dynoro
-- Hymnary.org text search: https://hymnary.org/search?qu=In+my+mind+in%3Atexts
-- Open Hymnal Project: https://openhymnal.org/
-- MusicBrainz Picard plugins: https://picard.musicbrainz.org/plugins/
-
-## Electric Love_BØRNS.m4a
-- Reason: no LRCLIB search match
-- Metadata: Electric Love - BØRNS
-- LRCLIB API search: https://lrclib.net/api/search?track_name=Electric+Love&artist_name=B%C3%98RNS
-- Hymnary.org text search: https://hymnary.org/search?qu=Electric+Love+in%3Atexts
-- Open Hymnal Project: https://openhymnal.org/
-- MusicBrainz Picard plugins: https://picard.musicbrainz.org/plugins/
-
-## In Waves_Trivium.m4a
-- Reason: no LRCLIB search match
-- Metadata: In Waves - Trivium
-- LRCLIB API search: https://lrclib.net/api/search?track_name=In+Waves&artist_name=Trivium
-- Hymnary.org text search: https://hymnary.org/search?qu=In+Waves+in%3Atexts
-- Open Hymnal Project: https://openhymnal.org/
-- MusicBrainz Picard plugins: https://picard.musicbrainz.org/plugins/
-
-## Immortals.m4a
-- Reason: no LRCLIB search match
-- Metadata: Immortals - Flint Glass, Polarlicht 4.1, Transistor
-- LRCLIB API search: https://lrclib.net/api/search?track_name=Immortals&artist_name=Flint+Glass%2C+Polarlicht+4.1%2C+Transistor
-- Hymnary.org text search: https://hymnary.org/search?qu=Immortals+in%3Atexts
-- Open Hymnal Project: https://openhymnal.org/
-- MusicBrainz Picard plugins: https://picard.musicbrainz.org/plugins/
-
-## Grievous Lady (from Arcaea)_Team Grimoire, Laur.m4a
-- Reason: no LRCLIB search match
-- Metadata: Grievous Lady - Team Grimoire, Laur
-- LRCLIB API search: https://lrclib.net/api/search?track_name=Grievous+Lady&artist_name=Team+Grimoire%2C+Laur
-- Hymnary.org text search: https://hymnary.org/search?qu=Grievous+Lady+in%3Atexts
-- Open Hymnal Project: https://openhymnal.org/
-- MusicBrainz Picard plugins: https://picard.musicbrainz.org/plugins/
-
-## I Wanna Be Yours_Arctic Monkeys.m4a
-- Reason: no LRCLIB search match
-- Metadata: I Wanna Be Yours - Arctic Monkeys
-- LRCLIB API search: https://lrclib.net/api/search?track_name=I+Wanna+Be+Yours&artist_name=Arctic+Monkeys
-- Hymnary.org text search: https://hymnary.org/search?qu=I+Wanna+Be+Yours+in%3Atexts
-- Open Hymnal Project: https://openhymnal.org/
-- MusicBrainz Picard plugins: https://picard.musicbrainz.org/plugins/
-
-## Hey, Soul Sister.m4a
-- Reason: no LRCLIB search match
-- Metadata: Hey, Soul Sister - Audiogroove
-- LRCLIB API search: https://lrclib.net/api/search?track_name=Hey%2C+Soul+Sister&artist_name=Audiogroove
-- Hymnary.org text search: https://hymnary.org/search?qu=Hey%2C+Soul+Sister+in%3Atexts
-- Open Hymnal Project: https://openhymnal.org/
-- MusicBrainz Picard plugins: https://picard.musicbrainz.org/plugins/
-
-## Island In The Sun_Weezer.m4a
-- Reason: no LRCLIB search match
-- Metadata: Island in the Sun - Weezer
-- LRCLIB API search: https://lrclib.net/api/search?track_name=Island+in+the+Sun&artist_name=Weezer
-- Hymnary.org text search: https://hymnary.org/search?qu=Island+in+the+Sun+in%3Atexts
-- Open Hymnal Project: https://openhymnal.org/
-- MusicBrainz Picard plugins: https://picard.musicbrainz.org/plugins/
-
-## Karma Police_Radiohead.m4a
-- Reason: no LRCLIB search match
-- Metadata: Karma Police - Radiohead
-- LRCLIB API search: https://lrclib.net/api/search?track_name=Karma+Police&artist_name=Radiohead
-- Hymnary.org text search: https://hymnary.org/search?qu=Karma+Police+in%3Atexts
-- Open Hymnal Project: https://openhymnal.org/
-- MusicBrainz Picard plugins: https://picard.musicbrainz.org/plugins/
-
-## Irresistible.m4a
-- Reason: no LRCLIB search match
-- Metadata: Irresistible - DJ Sammy
-- LRCLIB API search: https://lrclib.net/api/search?track_name=Irresistible&artist_name=DJ+Sammy
-- Hymnary.org text search: https://hymnary.org/search?qu=Irresistible+in%3Atexts
-- Open Hymnal Project: https://openhymnal.org/
-- MusicBrainz Picard plugins: https://picard.musicbrainz.org/plugins/
-
-## Keine Lust_Rammstein.m4a
-- Reason: no LRCLIB search match
-- Metadata: Keine Lust - Rammstein
-- LRCLIB API search: https://lrclib.net/api/search?track_name=Keine+Lust&artist_name=Rammstein
-- Hymnary.org text search: https://hymnary.org/search?qu=Keine+Lust+in%3Atexts
-- Open Hymnal Project: https://openhymnal.org/
-- MusicBrainz Picard plugins: https://picard.musicbrainz.org/plugins/
-
-## Let Down_Radiohead.m4a
-- Reason: no LRCLIB search match
-- Metadata: Let Down - Radiohead
-- LRCLIB API search: https://lrclib.net/api/search?track_name=Let+Down&artist_name=Radiohead
-- Hymnary.org text search: https://hymnary.org/search?qu=Let+Down+in%3Atexts
-- Open Hymnal Project: https://openhymnal.org/
-- MusicBrainz Picard plugins: https://picard.musicbrainz.org/plugins/
-
-## Let It Burn_Avatar, Johannes Eckerström, John Alfredsson, Johan Jarlsby, Henrik Sandelin, Simon Andersson, Markus Tagaris, Magnus Lundbäck.m4a
-- Reason: no LRCLIB search match
-- Metadata: Let It Burn - Avatar
-- LRCLIB API search: https://lrclib.net/api/search?track_name=Let+It+Burn&artist_name=Avatar
-- Hymnary.org text search: https://hymnary.org/search?qu=Let+It+Burn+in%3Atexts
-- Open Hymnal Project: https://openhymnal.org/
-- MusicBrainz Picard plugins: https://picard.musicbrainz.org/plugins/
-
-## Lightness_Death Cab for Cutie.mp3
-- Reason: no LRCLIB search match
-- Metadata: Lightness - Death Cab for Cutie
-- LRCLIB API search: https://lrclib.net/api/search?track_name=Lightness&artist_name=Death+Cab+for+Cutie
-- Hymnary.org text search: https://hymnary.org/search?qu=Lightness+in%3Atexts
-- Open Hymnal Project: https://openhymnal.org/
-- MusicBrainz Picard plugins: https://picard.musicbrainz.org/plugins/
-
-## Livin Time_Friends of Clay, Clay Priskorn.m4a
+## Peace Is Flowing Like a River – Carey Landry.m4a
 - Reason: no LRCLIB search match
-- Metadata: Livin Time - Friends of Clay
-- LRCLIB API search: https://lrclib.net/api/search?track_name=Livin+Time&artist_name=Friends+of+Clay
-- Hymnary.org text search: https://hymnary.org/search?qu=Livin+Time+in%3Atexts
+- Metadata: Peace Is Flowing like a River - Carey Landry
+- LRCLIB API search: https://lrclib.net/api/search?track_name=Peace+Is+Flowing+like+a+River&artist_name=Carey+Landry
+- Hymnary.org text search: https://hymnary.org/search?qu=Peace+Is+Flowing+like+a+River+in%3Atexts
 - Open Hymnal Project: https://openhymnal.org/
 - MusicBrainz Picard plugins: https://picard.musicbrainz.org/plugins/
 
-## Living Proof.m4a
+## Seek Ye First - Maranatha! Music.m4a
 - Reason: no LRCLIB search match
-- Metadata: Living Proof - Rochelle
-- LRCLIB API search: https://lrclib.net/api/search?track_name=Living+Proof&artist_name=Rochelle
-- Hymnary.org text search: https://hymnary.org/search?qu=Living+Proof+in%3Atexts
+- Metadata: Seek Ye First - The Maranatha! Singers
+- LRCLIB API search: https://lrclib.net/api/search?track_name=Seek+Ye+First&artist_name=The+Maranatha%21+Singers
+- Hymnary.org text search: https://hymnary.org/search?qu=Seek+Ye+First+in%3Atexts
 - Open Hymnal Project: https://openhymnal.org/
 - MusicBrainz Picard plugins: https://picard.musicbrainz.org/plugins/
 
-## Lightness_Death Cab for Cutie.m4a
+## Go in Peace – Sarah Hart.m4a
 - Reason: no LRCLIB search match
-- Metadata: Lightness - Death Cab for Cutie
-- LRCLIB API search: https://lrclib.net/api/search?track_name=Lightness&artist_name=Death+Cab+for+Cutie
-- Hymnary.org text search: https://hymnary.org/search?qu=Lightness+in%3Atexts
+- Metadata: Go in Peace - Sarah Hart, Dwight Liles
+- LRCLIB API search: https://lrclib.net/api/search?track_name=Go+in+Peace&artist_name=Sarah+Hart%2C+Dwight+Liles
+- Hymnary.org text search: https://hymnary.org/search?qu=Go+in+Peace+in%3Atexts
 - Open Hymnal Project: https://openhymnal.org/
 - MusicBrainz Picard plugins: https://picard.musicbrainz.org/plugins/
 
-## Love Me Not.m4a
+## Give me oil in my lamp.m4a
 - Reason: no LRCLIB search match
-- Metadata: Love Me Not - XIIth House
-- LRCLIB API search: https://lrclib.net/api/search?track_name=Love+Me+Not&artist_name=XIIth+House
-- Hymnary.org text search: https://hymnary.org/search?qu=Love+Me+Not+in%3Atexts
+- Metadata: Give Me Oil in My Lamp - Pamela Conn Beall, Susan Hagen Nipp
+- LRCLIB API search: https://lrclib.net/api/search?track_name=Give+Me+Oil+in+My+Lamp&artist_name=Pamela+Conn+Beall%2C+Susan+Hagen+Nipp
+- Hymnary.org text search: https://hymnary.org/search?qu=Give+Me+Oil+in+My+Lamp+in%3Atexts
 - Open Hymnal Project: https://openhymnal.org/
 - MusicBrainz Picard plugins: https://picard.musicbrainz.org/plugins/
 
-## Ma Cherie.m4a
+## Angels We Have Heard On High.m4a
 - Reason: no LRCLIB search match
-- Metadata: Ma cherie - Hanny, Frans Biezen
-- LRCLIB API search: https://lrclib.net/api/search?track_name=Ma+cherie&artist_name=Hanny%2C+Frans+Biezen
-- Hymnary.org text search: https://hymnary.org/search?qu=Ma+cherie+in%3Atexts
+- Metadata: Angels We Have Heard on High - The Blenders
+- LRCLIB API search: https://lrclib.net/api/search?track_name=Angels+We+Have+Heard+on+High&artist_name=The+Blenders
+- Hymnary.org text search: https://hymnary.org/search?qu=Angels+We+Have+Heard+on+High+in%3Atexts
 - Open Hymnal Project: https://openhymnal.org/
 - MusicBrainz Picard plugins: https://picard.musicbrainz.org/plugins/
 
-## Marble Machine_Wintergatan.m4a
-- Reason: no confident LRCLIB search match
-- Metadata: Marble Machine - Wintergatan
-- LRCLIB API search: https://lrclib.net/api/search?track_name=Marble+Machine&artist_name=Wintergatan
-- Hymnary.org text search: https://hymnary.org/search?qu=Marble+Machine+in%3Atexts
-- Open Hymnal Project: https://openhymnal.org/
-- MusicBrainz Picard plugins: https://picard.musicbrainz.org/plugins/
-
-## Mr. Blue Sky.m4a
-- Reason: no LRCLIB search match
-- Metadata: Mr Blue Sky - The Delgados
-- LRCLIB API search: https://lrclib.net/api/search?track_name=Mr+Blue+Sky&artist_name=The+Delgados
-- Hymnary.org text search: https://hymnary.org/search?qu=Mr+Blue+Sky+in%3Atexts
-- Open Hymnal Project: https://openhymnal.org/
-- MusicBrainz Picard plugins: https://picard.musicbrainz.org/plugins/
-
-## Nas Is Like_Nas.m4a
-- Reason: no LRCLIB search match
-- Metadata: Nas Is Like - Nas
-- LRCLIB API search: https://lrclib.net/api/search?track_name=Nas+Is+Like&artist_name=Nas
-- Hymnary.org text search: https://hymnary.org/search?qu=Nas+Is+Like+in%3Atexts
-- Open Hymnal Project: https://openhymnal.org/
-- MusicBrainz Picard plugins: https://picard.musicbrainz.org/plugins/
-
-## Monstrance Clock_Ghost.m4a
+## Open Our Eyes - Maranatha Singers.m4a
 - Reason: no LRCLIB search match
-- Metadata: Monstrance Clock - Ghost
-- LRCLIB API search: https://lrclib.net/api/search?track_name=Monstrance+Clock&artist_name=Ghost
-- Hymnary.org text search: https://hymnary.org/search?qu=Monstrance+Clock+in%3Atexts
+- Metadata: Open Our Eyes - The Maranatha! Singers
+- LRCLIB API search: https://lrclib.net/api/search?track_name=Open+Our+Eyes&artist_name=The+Maranatha%21+Singers
+- Hymnary.org text search: https://hymnary.org/search?qu=Open+Our+Eyes+in%3Atexts
 - Open Hymnal Project: https://openhymnal.org/
 - MusicBrainz Picard plugins: https://picard.musicbrainz.org/plugins/
 
-## Morgenstern_Rammstein.m4a
+## Hail, Queen of Heaven (The Ocean Star).m4a
 - Reason: no LRCLIB search match
-- Metadata: Morgenstern - Rammstein
-- LRCLIB API search: https://lrclib.net/api/search?track_name=Morgenstern&artist_name=Rammstein
-- Hymnary.org text search: https://hymnary.org/search?qu=Morgenstern+in%3Atexts
+- Metadata: Hail, Queen of Heaven - Regina Nathan
+- LRCLIB API search: https://lrclib.net/api/search?track_name=Hail%2C+Queen+of+Heaven&artist_name=Regina+Nathan
+- Hymnary.org text search: https://hymnary.org/search?qu=Hail%2C+Queen+of+Heaven+in%3Atexts
 - Open Hymnal Project: https://openhymnal.org/
 - MusicBrainz Picard plugins: https://picard.musicbrainz.org/plugins/
 
-## Nothin' on You (feat. Bruno Mars)_B.o.B, Bruno Mars.m4a
+## More Love More Power (feat. Jane Tiller).m4a
 - Reason: no LRCLIB search match
-- Metadata: Nothin’ on You - B.o.B
-- LRCLIB API search: https://lrclib.net/api/search?track_name=Nothin%E2%80%99+on+You&artist_name=B.o.B
-- Hymnary.org text search: https://hymnary.org/search?qu=Nothin%E2%80%99+on+You+in%3Atexts
-- Open Hymnal Project: https://openhymnal.org/
-- MusicBrainz Picard plugins: https://picard.musicbrainz.org/plugins/
-
-## Holy Mountains_System Of A Down.m4a
-- Reason: no LRCLIB search match; Hymnary.org fallback failed: 403 Client Error: Forbidden for url: https://hymnary.org/text/holy_mountains_system_of_a_down
-- Metadata: Holy Mountains - System of a Down
-- LRCLIB API search: https://lrclib.net/api/search?track_name=Holy+Mountains&artist_name=System+of+a+Down
-- Hymnary.org text search: https://hymnary.org/search?qu=Holy+Mountains+in%3Atexts
+- Metadata: More Love, More Power - Nitro Praise
+- LRCLIB API search: https://lrclib.net/api/search?track_name=More+Love%2C+More+Power&artist_name=Nitro+Praise
+- Hymnary.org text search: https://hymnary.org/search?qu=More+Love%2C+More+Power+in%3Atexts
 - Open Hymnal Project: https://openhymnal.org/
 - MusicBrainz Picard plugins: https://picard.musicbrainz.org/plugins/
 
-## OGRE (feat. 初音ミク).m4a
+## I've got the Joy Joy Joy.m4a
 - Reason: no LRCLIB search match
-- Metadata: Ogre - Jad, David Fair
-- LRCLIB API search: https://lrclib.net/api/search?track_name=Ogre&artist_name=Jad%2C+David+Fair
-- Hymnary.org text search: https://hymnary.org/search?qu=Ogre+in%3Atexts
-- Open Hymnal Project: https://openhymnal.org/
-- MusicBrainz Picard plugins: https://picard.musicbrainz.org/plugins/
-
-## Holy Spirit_Jesus Is The Way.m4a
-- Reason: no LRCLIB search match; Hymnary.org fallback failed: 403 Client Error: Forbidden for url: https://hymnary.org/text/holy_spirit_jesus_is_the_way
-- Metadata: Holy Spirit - Jesus Is The Way
-- LRCLIB API search: https://lrclib.net/api/search?track_name=Holy+Spirit&artist_name=Jesus+Is+The+Way
-- Hymnary.org text search: https://hymnary.org/search?qu=Holy+Spirit+in%3Atexts
+- Metadata: I've Got the Joy, Joy, Joy - Toddlers Sing
+- LRCLIB API search: https://lrclib.net/api/search?track_name=I%27ve+Got+the+Joy%2C+Joy%2C+Joy&artist_name=Toddlers+Sing
+- Hymnary.org text search: https://hymnary.org/search?qu=I%27ve+Got+the+Joy%2C+Joy%2C+Joy+in%3Atexts
 - Open Hymnal Project: https://openhymnal.org/
 - MusicBrainz Picard plugins: https://picard.musicbrainz.org/plugins/
 
-## My Songs Know What You Did In The Dark (Light Em Up)_Fall Out Boy.m4a
+## O Come All Ye Faithful (with lyrics) - BEAUTIFUL Christmas carol hymn.m4a
 - Reason: no LRCLIB search match
-- Metadata: My Songs Know What You Did In The Dark - Fall Out Boy
-- LRCLIB API search: https://lrclib.net/api/search?track_name=My+Songs+Know+What+You+Did+In+The+Dark&artist_name=Fall+Out+Boy
-- Hymnary.org text search: https://hymnary.org/search?qu=My+Songs+Know+What+You+Did+In+The+Dark+in%3Atexts
+- Metadata: O Come All Ye Faithful - Monte Croft, Terence Blanchard
+- LRCLIB API search: https://lrclib.net/api/search?track_name=O+Come+All+Ye+Faithful&artist_name=Monte+Croft%2C+Terence+Blanchard
+- Hymnary.org text search: https://hymnary.org/search?qu=O+Come+All+Ye+Faithful+in%3Atexts
 - Open Hymnal Project: https://openhymnal.org/
 - MusicBrainz Picard plugins: https://picard.musicbrainz.org/plugins/
 
-## My Name Is_Eminem.m4a
+## Put On The Armour Song.m4a
 - Reason: no LRCLIB search match
-- Metadata: My Name Is - Eminem
-- LRCLIB API search: https://lrclib.net/api/search?track_name=My+Name+Is&artist_name=Eminem
-- Hymnary.org text search: https://hymnary.org/search?qu=My+Name+Is+in%3Atexts
-- Open Hymnal Project: https://openhymnal.org/
-- MusicBrainz Picard plugins: https://picard.musicbrainz.org/plugins/
-
-## Holy Spirit, Come to Us (Tui amoris ignem)_Taizé.m4a
-- Reason: no confident LRCLIB search match; Hymnary.org fallback failed: 403 Client Error: Forbidden for url: https://hymnary.org/text/holy_spirit_come_to_us_taize
-- Metadata: Holy Spirit, Come to Us - Taize
-- LRCLIB API search: https://lrclib.net/api/search?track_name=Holy+Spirit%2C+Come+to+Us&artist_name=Taize
-- Hymnary.org text search: https://hymnary.org/search?qu=Holy+Spirit%2C+Come+to+Us+in%3Atexts
+- Metadata: Put On The Armour - Matthew Ward
+- LRCLIB API search: https://lrclib.net/api/search?track_name=Put+On+The+Armour&artist_name=Matthew+Ward
+- Hymnary.org text search: https://hymnary.org/search?qu=Put+On+The+Armour+in%3Atexts
 - Open Hymnal Project: https://openhymnal.org/
 - MusicBrainz Picard plugins: https://picard.musicbrainz.org/plugins/
 
-## Om Du Möter Varg_Detektivbyrån.m4a
+## Bring Flowers of the Rarest.m4a
 - Reason: no LRCLIB search match
-- Metadata: Om du möter varg - Detektivbyrån
-- LRCLIB API search: https://lrclib.net/api/search?track_name=Om+du+m%C3%B6ter+varg&artist_name=Detektivbyr%C3%A5n
-- Hymnary.org text search: https://hymnary.org/search?qu=Om+du+m%C3%B6ter+varg+in%3Atexts
-- Open Hymnal Project: https://openhymnal.org/
-- MusicBrainz Picard plugins: https://picard.musicbrainz.org/plugins/
-
-## Bless the Lord, My Soul_The London Fox Taize Choir, Jacques Berthier.m4a
-- Reason: no LRCLIB search match; Hymnary.org fallback failed: 403 Client Error: Forbidden for url: https://hymnary.org/text/bless_the_lord_my_soul_the_london_fox_taize_choir_jacques_berthier
-- Metadata: Bless the Lord, My Soul - The London Fox Taize Choir, Jacques Berthier
-- LRCLIB API search: https://lrclib.net/api/search?track_name=Bless+the+Lord%2C+My+Soul&artist_name=The+London+Fox+Taize+Choir%2C+Jacques+Berthier
-- Hymnary.org text search: https://hymnary.org/search?qu=Bless+the+Lord%2C+My+Soul+in%3Atexts
+- Metadata: Bring Flowers Of the Rarest - Paul Byrom
+- LRCLIB API search: https://lrclib.net/api/search?track_name=Bring+Flowers+Of+the+Rarest&artist_name=Paul+Byrom
+- Hymnary.org text search: https://hymnary.org/search?qu=Bring+Flowers+Of+the+Rarest+in%3Atexts
 - Open Hymnal Project: https://openhymnal.org/
 - MusicBrainz Picard plugins: https://picard.musicbrainz.org/plugins/
 
-## Paro House (Luciid VIP)_Luciid.m4a
+## Love Is His Word.m4a
 - Reason: no LRCLIB search match
-- Metadata: Paro House (Luciid VIP) - Luciid
-- LRCLIB API search: https://lrclib.net/api/search?track_name=Paro+House+%28Luciid+VIP%29&artist_name=Luciid
-- Hymnary.org text search: https://hymnary.org/search?qu=Paro+House+%28Luciid+VIP%29+in%3Atexts
-- Open Hymnal Project: https://openhymnal.org/
-- MusicBrainz Picard plugins: https://picard.musicbrainz.org/plugins/
-
-## Goddess_Laufey.m4a
-- Reason: no LRCLIB search match; Hymnary.org fallback failed: 403 Client Error: Forbidden for url: https://hymnary.org/text/goddess_laufey
-- Metadata: Goddess - Laufey
-- LRCLIB API search: https://lrclib.net/api/search?track_name=Goddess&artist_name=Laufey
-- Hymnary.org text search: https://hymnary.org/search?qu=Goddess+in%3Atexts
-- Open Hymnal Project: https://openhymnal.org/
-- MusicBrainz Picard plugins: https://picard.musicbrainz.org/plugins/
-
-## Jesus, Remember Me_Taizé.m4a
-- Reason: no LRCLIB search match; Hymnary.org fallback failed: 403 Client Error: Forbidden for url: https://hymnary.org/text/jesus_remember_me_taiz
-- Metadata: Jesus Remember Me - Taizé
-- LRCLIB API search: https://lrclib.net/api/search?track_name=Jesus+Remember+Me&artist_name=Taiz%C3%A9
-- Hymnary.org text search: https://hymnary.org/search?qu=Jesus+Remember+Me+in%3Atexts
+- Metadata: Love Is His Word - Notre Dame Folk Choir
+- LRCLIB API search: https://lrclib.net/api/search?track_name=Love+Is+His+Word&artist_name=Notre+Dame+Folk+Choir
+- Hymnary.org text search: https://hymnary.org/search?qu=Love+Is+His+Word+in%3Atexts
 - Open Hymnal Project: https://openhymnal.org/
 - MusicBrainz Picard plugins: https://picard.musicbrainz.org/plugins/
 
-## PA PA YA!! (METAL GALAXY WORLD TOUR IN JAPAN EXTRA SHOW).m4a
+## Daily Daily Sing To Mary.m4a
 - Reason: no LRCLIB search match
-- Metadata: PA PA YA!! - BABYMETAL, F.HERO
-- LRCLIB API search: https://lrclib.net/api/search?track_name=PA+PA+YA%21%21&artist_name=BABYMETAL%2C+F.HERO
-- Hymnary.org text search: https://hymnary.org/search?qu=PA+PA+YA%21%21+in%3Atexts
+- Metadata: Daily, Daily, Sing to Mary - Suzanne D'Mello
+- LRCLIB API search: https://lrclib.net/api/search?track_name=Daily%2C+Daily%2C+Sing+to+Mary&artist_name=Suzanne+D%27Mello
+- Hymnary.org text search: https://hymnary.org/search?qu=Daily%2C+Daily%2C+Sing+to+Mary+in%3Atexts
 - Open Hymnal Project: https://openhymnal.org/
 - MusicBrainz Picard plugins: https://picard.musicbrainz.org/plugins/
 
-## Paint Me Red_Avatar, Johannes Eckerström, John Alfredsson, Johan Jarlsby, Henrik Sandelin, Simon Andersson, Markus Tagaris, Magnus Lundbäck.m4a
+## Majesty - Maranatha! Music.m4a
 - Reason: no LRCLIB search match
-- Metadata: Paint Me Red - Avatar
-- LRCLIB API search: https://lrclib.net/api/search?track_name=Paint+Me+Red&artist_name=Avatar
-- Hymnary.org text search: https://hymnary.org/search?qu=Paint+Me+Red+in%3Atexts
+- Metadata: Majesty - Maranatha! Praise Band
+- LRCLIB API search: https://lrclib.net/api/search?track_name=Majesty&artist_name=Maranatha%21+Praise+Band
+- Hymnary.org text search: https://hymnary.org/search?qu=Majesty+in%3Atexts
 - Open Hymnal Project: https://openhymnal.org/
 - MusicBrainz Picard plugins: https://picard.musicbrainz.org/plugins/
 
-## Pictures in an Exhibition_Death Cab for Cutie.mp3
+## DON'T TURN ON THE LIGHT (Kinger's Song).m4a
 - Reason: no LRCLIB search match
-- Metadata: Pictures in an Exhibition - Death Cab for Cutie
-- LRCLIB API search: https://lrclib.net/api/search?track_name=Pictures+in+an+Exhibition&artist_name=Death+Cab+for+Cutie
-- Hymnary.org text search: https://hymnary.org/search?qu=Pictures+in+an+Exhibition+in%3Atexts
-- Open Hymnal Project: https://openhymnal.org/
-- MusicBrainz Picard plugins: https://picard.musicbrainz.org/plugins/
-
-## Pigstep (Stereo Mix)_Lena Raine, Minecraft.m4a
-- Reason: no confident LRCLIB search match
-- Metadata: Pigstep (stereo mix) - Lena Raine
-- LRCLIB API search: https://lrclib.net/api/search?track_name=Pigstep+%28stereo+mix%29&artist_name=Lena+Raine
-- Hymnary.org text search: https://hymnary.org/search?qu=Pigstep+%28stereo+mix%29+in%3Atexts
+- Metadata: Don't Turn On The Light - Imperial Daze
+- LRCLIB API search: https://lrclib.net/api/search?track_name=Don%27t+Turn+On+The+Light&artist_name=Imperial+Daze
+- Hymnary.org text search: https://hymnary.org/search?qu=Don%27t+Turn+On+The+Light+in%3Atexts
 - Open Hymnal Project: https://openhymnal.org/
 - MusicBrainz Picard plugins: https://picard.musicbrainz.org/plugins/
 
-## Pink Pony Club.m4a
+## O Come, O Come Emmanuel - Traditional Choir.m4a
 - Reason: no LRCLIB search match
-- Metadata: Pink Pony Club - Morning in May
-- LRCLIB API search: https://lrclib.net/api/search?track_name=Pink+Pony+Club&artist_name=Morning+in+May
-- Hymnary.org text search: https://hymnary.org/search?qu=Pink+Pony+Club+in%3Atexts
+- Metadata: O Come, O Come Emmanuel - [traditional]
+- LRCLIB API search: https://lrclib.net/api/search?track_name=O+Come%2C+O+Come+Emmanuel&artist_name=%5Btraditional%5D
+- Hymnary.org text search: https://hymnary.org/search?qu=O+Come%2C+O+Come+Emmanuel+in%3Atexts
 - Open Hymnal Project: https://openhymnal.org/
 - MusicBrainz Picard plugins: https://picard.musicbrainz.org/plugins/
 
-## Passenger Seat_Death Cab for Cutie.mp3
+## Lenten Hymn.m4a
 - Reason: no LRCLIB search match
-- Metadata: Passenger Seat - Death Cab for Cutie
-- LRCLIB API search: https://lrclib.net/api/search?track_name=Passenger+Seat&artist_name=Death+Cab+for+Cutie
-- Hymnary.org text search: https://hymnary.org/search?qu=Passenger+Seat+in%3Atexts
+- Metadata: Lenten - Metropole Orkest
+- LRCLIB API search: https://lrclib.net/api/search?track_name=Lenten&artist_name=Metropole+Orkest
+- Hymnary.org text search: https://hymnary.org/search?qu=Lenten+in%3Atexts
 - Open Hymnal Project: https://openhymnal.org/
 - MusicBrainz Picard plugins: https://picard.musicbrainz.org/plugins/
 
-## Pictures in an Exhibition_Death Cab for Cutie[Something About Airplanes 17].mp3
+## Away In A Manger (with lyrics) - The most BEAUTIFUL Christmas carol hymn!.m4a
 - Reason: no LRCLIB search match
-- Metadata: Pictures in an Exhibition - Death Cab for Cutie
-- LRCLIB API search: https://lrclib.net/api/search?track_name=Pictures+in+an+Exhibition&artist_name=Death+Cab+for+Cutie
-- Hymnary.org text search: https://hymnary.org/search?qu=Pictures+in+an+Exhibition+in%3Atexts
+- Metadata: Away in a Manger - Butch Thompson
+- LRCLIB API search: https://lrclib.net/api/search?track_name=Away+in+a+Manger&artist_name=Butch+Thompson
+- Hymnary.org text search: https://hymnary.org/search?qu=Away+in+a+Manger+in%3Atexts
 - Open Hymnal Project: https://openhymnal.org/
 - MusicBrainz Picard plugins: https://picard.musicbrainz.org/plugins/
 
-## Paparazzi.m4a
+## IT TAKES COURAGE.m4a
 - Reason: no LRCLIB search match
-- Metadata: Paparazzi - Xzibit
-- LRCLIB API search: https://lrclib.net/api/search?track_name=Paparazzi&artist_name=Xzibit
-- Hymnary.org text search: https://hymnary.org/search?qu=Paparazzi+in%3Atexts
+- Metadata: It Takes Courage - Little Man
+- LRCLIB API search: https://lrclib.net/api/search?track_name=It+Takes+Courage&artist_name=Little+Man
+- Hymnary.org text search: https://hymnary.org/search?qu=It+Takes+Courage+in%3Atexts
 - Open Hymnal Project: https://openhymnal.org/
 - MusicBrainz Picard plugins: https://picard.musicbrainz.org/plugins/
 
-## President of What?_Death Cab for Cutie[Something About Airplanes 12].mp3
+## Be Still and Know (with lyrics) - The most Peaceful Hymn.m4a
 - Reason: no LRCLIB search match
-- Metadata: President of What? - Death Cab for Cutie
-- LRCLIB API search: https://lrclib.net/api/search?track_name=President+of+What%3F&artist_name=Death+Cab+for+Cutie
-- Hymnary.org text search: https://hymnary.org/search?qu=President+of+What%3F+in%3Atexts
-- Open Hymnal Project: https://openhymnal.org/
-- MusicBrainz Picard plugins: https://picard.musicbrainz.org/plugins/
-
-## Kyrie eleison_Taizé.m4a
-- Reason: no LRCLIB search match; Hymnary.org fallback failed: 403 Client Error: Forbidden for url: https://hymnary.org/text/kyrie_eleison_8_taiz
-- Metadata: Kyrie eleison 8 - Taizé
-- LRCLIB API search: https://lrclib.net/api/search?track_name=Kyrie+eleison+8&artist_name=Taiz%C3%A9
-- Hymnary.org text search: https://hymnary.org/search?qu=Kyrie+eleison+8+in%3Atexts
+- Metadata: Be Still and Know - Voices of Praise
+- LRCLIB API search: https://lrclib.net/api/search?track_name=Be+Still+and+Know&artist_name=Voices+of+Praise
+- Hymnary.org text search: https://hymnary.org/search?qu=Be+Still+and+Know+in%3Atexts
 - Open Hymnal Project: https://openhymnal.org/
 - MusicBrainz Picard plugins: https://picard.musicbrainz.org/plugins/
 
-## Radio_Rammstein.m4a
+## Happiness Is Where You Are.m4a
 - Reason: no LRCLIB search match
-- Metadata: Radio - Rammstein
-- LRCLIB API search: https://lrclib.net/api/search?track_name=Radio&artist_name=Rammstein
-- Hymnary.org text search: https://hymnary.org/search?qu=Radio+in%3Atexts
+- Metadata: Happiness Is Where You Are - Oddgeir Berg Trio
+- LRCLIB API search: https://lrclib.net/api/search?track_name=Happiness+Is+Where+You+Are&artist_name=Oddgeir+Berg+Trio
+- Hymnary.org text search: https://hymnary.org/search?qu=Happiness+Is+Where+You+Are+in%3Atexts
 - Open Hymnal Project: https://openhymnal.org/
 - MusicBrainz Picard plugins: https://picard.musicbrainz.org/plugins/
 
-## President of What?_Death Cab for Cutie.mp3
+## It Came Upon The Midnight Clear.m4a
 - Reason: no LRCLIB search match
-- Metadata: President of What? - Death Cab for Cutie
-- LRCLIB API search: https://lrclib.net/api/search?track_name=President+of+What%3F&artist_name=Death+Cab+for+Cutie
-- Hymnary.org text search: https://hymnary.org/search?qu=President+of+What%3F+in%3Atexts
+- Metadata: It Came Upon the Midnight Clear - Maddy Prior with The Carnival Band
+- LRCLIB API search: https://lrclib.net/api/search?track_name=It+Came+Upon+the+Midnight+Clear&artist_name=Maddy+Prior+with+The+Carnival+Band
+- Hymnary.org text search: https://hymnary.org/search?qu=It+Came+Upon+the+Midnight+Clear+in%3Atexts
 - Open Hymnal Project: https://openhymnal.org/
 - MusicBrainz Picard plugins: https://picard.musicbrainz.org/plugins/
 
-## Reincarnate_Motionless In White.m4a
+## Cause me to come - Maranatha! Music.m4a
 - Reason: no LRCLIB search match
-- Metadata: Reincarnate - Motionless in White
-- LRCLIB API search: https://lrclib.net/api/search?track_name=Reincarnate&artist_name=Motionless+in+White
-- Hymnary.org text search: https://hymnary.org/search?qu=Reincarnate+in%3Atexts
+- Metadata: Cause Me to Come - The Maranatha! Singers
+- LRCLIB API search: https://lrclib.net/api/search?track_name=Cause+Me+to+Come&artist_name=The+Maranatha%21+Singers
+- Hymnary.org text search: https://hymnary.org/search?qu=Cause+Me+to+Come+in%3Atexts
 - Open Hymnal Project: https://openhymnal.org/
 - MusicBrainz Picard plugins: https://picard.musicbrainz.org/plugins/
 
-## Promise_Laufey, Dan Wilson.m4a
+## Peace, Perfect Peace.m4a
 - Reason: no LRCLIB search match
-- Metadata: Promise - Laufey
-- LRCLIB API search: https://lrclib.net/api/search?track_name=Promise&artist_name=Laufey
-- Hymnary.org text search: https://hymnary.org/search?qu=Promise+in%3Atexts
+- Metadata: Peace Perfect Peace - Laurel Aitken, The Skatalites
+- LRCLIB API search: https://lrclib.net/api/search?track_name=Peace+Perfect+Peace&artist_name=Laurel+Aitken%2C+The+Skatalites
+- Hymnary.org text search: https://hymnary.org/search?qu=Peace+Perfect+Peace+in%3Atexts
 - Open Hymnal Project: https://openhymnal.org/
 - MusicBrainz Picard plugins: https://picard.musicbrainz.org/plugins/
 
-## Safe & Sound (Taylor's Version)_Taylor Swift, Joy Williams, John Paul White.m4a
+## I Am The Bread of Life.m4a
 - Reason: no LRCLIB search match
-- Metadata: Safe and Sound - Taylor Swift, DJ ICE
-- LRCLIB API search: https://lrclib.net/api/search?track_name=Safe+and+Sound&artist_name=Taylor+Swift%2C+DJ+ICE
-- Hymnary.org text search: https://hymnary.org/search?qu=Safe+and+Sound+in%3Atexts
+- Metadata: I Am the Bread of Life - John Michael Talbot
+- LRCLIB API search: https://lrclib.net/api/search?track_name=I+Am+the+Bread+of+Life&artist_name=John+Michael+Talbot
+- Hymnary.org text search: https://hymnary.org/search?qu=I+Am+the+Bread+of+Life+in%3Atexts
 - Open Hymnal Project: https://openhymnal.org/
 - MusicBrainz Picard plugins: https://picard.musicbrainz.org/plugins/
 
-## RENAISSANCE (feat. 初音ミク).m4a
+## The Bells of the Angelus.m4a
 - Reason: no LRCLIB search match
-- Metadata: Renaissance - Craig Linder
-- LRCLIB API search: https://lrclib.net/api/search?track_name=Renaissance&artist_name=Craig+Linder
-- Hymnary.org text search: https://hymnary.org/search?qu=Renaissance+in%3Atexts
+- Metadata: The Bells of the Angelus - Mark Duff
+- LRCLIB API search: https://lrclib.net/api/search?track_name=The+Bells+of+the+Angelus&artist_name=Mark+Duff
+- Hymnary.org text search: https://hymnary.org/search?qu=The+Bells+of+the+Angelus+in%3Atexts
 - Open Hymnal Project: https://openhymnal.org/
 - MusicBrainz Picard plugins: https://picard.musicbrainz.org/plugins/
 
-## STFU!_Rina Sawayama.m4a
+## Silent Night (with lyrics) - The most BEAUTIFUL Christmas carol hymn!.m4a
 - Reason: no LRCLIB search match
-- Metadata: STFU! - Rina Sawayama
-- LRCLIB API search: https://lrclib.net/api/search?track_name=STFU%21&artist_name=Rina+Sawayama
-- Hymnary.org text search: https://hymnary.org/search?qu=STFU%21+in%3Atexts
+- Metadata: Silent Night - John Valby
+- LRCLIB API search: https://lrclib.net/api/search?track_name=Silent+Night&artist_name=John+Valby
+- Hymnary.org text search: https://hymnary.org/search?qu=Silent+Night+in%3Atexts
 - Open Hymnal Project: https://openhymnal.org/
 - MusicBrainz Picard plugins: https://picard.musicbrainz.org/plugins/
 
-## Seven Nation Army.m4a
+## TAKE AND RECEIVE.m4a
 - Reason: no LRCLIB search match
-- Metadata: Seven Nation Army - The Dynamics
-- LRCLIB API search: https://lrclib.net/api/search?track_name=Seven+Nation+Army&artist_name=The+Dynamics
-- Hymnary.org text search: https://hymnary.org/search?qu=Seven+Nation+Army+in%3Atexts
+- Metadata: Take and Receive - Bukas Palad
+- LRCLIB API search: https://lrclib.net/api/search?track_name=Take+and+Receive&artist_name=Bukas+Palad
+- Hymnary.org text search: https://hymnary.org/search?qu=Take+and+Receive+in%3Atexts
 - Open Hymnal Project: https://openhymnal.org/
 - MusicBrainz Picard plugins: https://picard.musicbrainz.org/plugins/
 
-## Sail_AWOLNATION.m4a
+## Song of Ruth (Wherever You Go) sung by Bethany Paige.m4a
 - Reason: no LRCLIB search match
-- Metadata: Sail - Awolnation
-- LRCLIB API search: https://lrclib.net/api/search?track_name=Sail&artist_name=Awolnation
-- Hymnary.org text search: https://hymnary.org/search?qu=Sail+in%3Atexts
+- Metadata: Song of Ruth - Bobo Stenson Trio
+- LRCLIB API search: https://lrclib.net/api/search?track_name=Song+of+Ruth&artist_name=Bobo+Stenson+Trio
+- Hymnary.org text search: https://hymnary.org/search?qu=Song+of+Ruth+in%3Atexts
 - Open Hymnal Project: https://openhymnal.org/
 - MusicBrainz Picard plugins: https://picard.musicbrainz.org/plugins/
 
-## Say It Ain't So_Weezer.m4a
+## Sweet Sacrament Divine.m4a
 - Reason: no LRCLIB search match
-- Metadata: Say It Ain't So - Weezer
-- LRCLIB API search: https://lrclib.net/api/search?track_name=Say+It+Ain%27t+So&artist_name=Weezer
-- Hymnary.org text search: https://hymnary.org/search?qu=Say+It+Ain%27t+So+in%3Atexts
+- Metadata: Sweet Sacrament Divine - Regina Nathan, Irish Philharmonic Orchestra
+- LRCLIB API search: https://lrclib.net/api/search?track_name=Sweet+Sacrament+Divine&artist_name=Regina+Nathan%2C+Irish+Philharmonic+Orchestra
+- Hymnary.org text search: https://hymnary.org/search?qu=Sweet+Sacrament+Divine+in%3Atexts
 - Open Hymnal Project: https://openhymnal.org/
 - MusicBrainz Picard plugins: https://picard.musicbrainz.org/plugins/
 
-## Silver Springs (2004 Remaster)_Fleetwood Mac.m4a
+## Father, I Place Into Your Hands.m4a
 - Reason: no LRCLIB search match
-- Metadata: Silver Springs - Fleetwood Mac
-- LRCLIB API search: https://lrclib.net/api/search?track_name=Silver+Springs&artist_name=Fleetwood+Mac
-- Hymnary.org text search: https://hymnary.org/search?qu=Silver+Springs+in%3Atexts
+- Metadata: Father I Place Into Your Hands - [unknown]
+- LRCLIB API search: https://lrclib.net/api/search?track_name=Father+I+Place+Into+Your+Hands&artist_name=%5Bunknown%5D
+- Hymnary.org text search: https://hymnary.org/search?qu=Father+I+Place+Into+Your+Hands+in%3Atexts
 - Open Hymnal Project: https://openhymnal.org/
 - MusicBrainz Picard plugins: https://picard.musicbrainz.org/plugins/
 
-## Silver Springs_Mae Shell.m4a
+## Follow me, follow me.m4a
 - Reason: no LRCLIB search match
-- Metadata: Silver Springs - Mae Shell
-- LRCLIB API search: https://lrclib.net/api/search?track_name=Silver+Springs&artist_name=Mae+Shell
-- Hymnary.org text search: https://hymnary.org/search?qu=Silver+Springs+in%3Atexts
+- Metadata: Follow Me, Follow Me - Tejo, Black Alien, Speed
+- LRCLIB API search: https://lrclib.net/api/search?track_name=Follow+Me%2C+Follow+Me&artist_name=Tejo%2C+Black+Alien%2C+Speed
+- Hymnary.org text search: https://hymnary.org/search?qu=Follow+Me%2C+Follow+Me+in%3Atexts
 - Open Hymnal Project: https://openhymnal.org/
 - MusicBrainz Picard plugins: https://picard.musicbrainz.org/plugins/
 
-## Shallow_Lady Gaga, Bradley Cooper.m4a
+## Tantum Ergo.m4a
 - Reason: no LRCLIB search match
-- Metadata: Shallow - Lady Gaga
-- LRCLIB API search: https://lrclib.net/api/search?track_name=Shallow&artist_name=Lady+Gaga
-- Hymnary.org text search: https://hymnary.org/search?qu=Shallow+in%3Atexts
+- Metadata: Tantum ergo - Les Nouvelles Polyphonies Corses
+- LRCLIB API search: https://lrclib.net/api/search?track_name=Tantum+ergo&artist_name=Les+Nouvelles+Polyphonies+Corses
+- Hymnary.org text search: https://hymnary.org/search?qu=Tantum+ergo+in%3Atexts
 - Open Hymnal Project: https://openhymnal.org/
 - MusicBrainz Picard plugins: https://picard.musicbrainz.org/plugins/
 
-## Sleep Spent_Death Cab for Cutie.mp3
+## This is the Day - Maranatha.m4a
 - Reason: no LRCLIB search match
-- Metadata: Sleep Spent - Death Cab for Cutie
-- LRCLIB API search: https://lrclib.net/api/search?track_name=Sleep+Spent&artist_name=Death+Cab+for+Cutie
-- Hymnary.org text search: https://hymnary.org/search?qu=Sleep+Spent+in%3Atexts
+- Metadata: This Is the Day - The Maranatha! Singers
+- LRCLIB API search: https://lrclib.net/api/search?track_name=This+Is+the+Day&artist_name=The+Maranatha%21+Singers
+- Hymnary.org text search: https://hymnary.org/search?qu=This+Is+the+Day+in%3Atexts
 - Open Hymnal Project: https://openhymnal.org/
 - MusicBrainz Picard plugins: https://picard.musicbrainz.org/plugins/
 
-## Sexy to Someone_Clairo.m4a
-- Reason: no LRCLIB search match
-- Metadata: Sexy to Someone - Clairo
-- LRCLIB API search: https://lrclib.net/api/search?track_name=Sexy+to+Someone&artist_name=Clairo
-- Hymnary.org text search: https://hymnary.org/search?qu=Sexy+to+Someone+in%3Atexts
+## Praise Him, Praise Him Jesus Our Blessed Redeemer.m4a
+- Reason: no LRCLIB search match; Hymnary.org fallback failed: HTTPSConnectionPool(host='hymnary.org', port=443): Max retries exceeded with url: /search?qu=Praise+Him%2C+Praise+Him%2C+Jesus+Our+Blessed+Redeemer+in%3Atexts (Caused by SSLError(SSLError(1, '[SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:1077)')))
+- Metadata: Praise Him, Praise Him, Jesus Our Blessed Redeemer - Kidzup
+- LRCLIB API search: https://lrclib.net/api/search?track_name=Praise+Him%2C+Praise+Him%2C+Jesus+Our+Blessed+Redeemer&artist_name=Kidzup
+- Hymnary.org text search: https://hymnary.org/search?qu=Praise+Him%2C+Praise+Him%2C+Jesus+Our+Blessed+Redeemer+in%3Atexts
 - Open Hymnal Project: https://openhymnal.org/
 - MusicBrainz Picard plugins: https://picard.musicbrainz.org/plugins/
 
-## Sino_Unique Salonga.m4a
-- Reason: no LRCLIB search match
-- Metadata: Sino - Unique Salonga
-- LRCLIB API search: https://lrclib.net/api/search?track_name=Sino&artist_name=Unique+Salonga
-- Hymnary.org text search: https://hymnary.org/search?qu=Sino+in%3Atexts
+## Hark! The Herald Angels Sing.m4a
+- Reason: no LRCLIB search match; Hymnary.org fallback failed: HTTPSConnectionPool(host='hymnary.org', port=443): Max retries exceeded with url: /search?qu=Hark%21+The+Herald+Angels+Sing+in%3Atexts (Caused by SSLError(SSLError(1, '[SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:1077)')))
+- Metadata: Hark! The Herald Angels Sing - Kurt Bestor
+- LRCLIB API search: https://lrclib.net/api/search?track_name=Hark%21+The+Herald+Angels+Sing&artist_name=Kurt+Bestor
+- Hymnary.org text search: https://hymnary.org/search?qu=Hark%21+The+Herald+Angels+Sing+in%3Atexts
 - Open Hymnal Project: https://openhymnal.org/
 - MusicBrainz Picard plugins: https://picard.musicbrainz.org/plugins/
 
-## Saturnalia.m4a
-- Reason: no confident LRCLIB search match
-- Metadata: Saturnalia - Daniel Lioneye
-- LRCLIB API search: https://lrclib.net/api/search?track_name=Saturnalia&artist_name=Daniel+Lioneye
-- Hymnary.org text search: https://hymnary.org/search?qu=Saturnalia+in%3Atexts
+## Nearer My God To Thee (with lyrics) - The Most BEAUTIFUL hymn you’ve EVER Heard!.m4a
+- Reason: no LRCLIB search match; Hymnary.org fallback failed: HTTPSConnectionPool(host='hymnary.org', port=443): Max retries exceeded with url: /search?qu=Nearer%2C+My+God%2C+to+Thee+in%3Atexts (Caused by SSLError(SSLError(1, '[SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:1077)')))
+- Metadata: Nearer, My God, to Thee - Paul Robeson
+- LRCLIB API search: https://lrclib.net/api/search?track_name=Nearer%2C+My+God%2C+to+Thee&artist_name=Paul+Robeson
+- Hymnary.org text search: https://hymnary.org/search?qu=Nearer%2C+My+God%2C+to+Thee+in%3Atexts
 - Open Hymnal Project: https://openhymnal.org/
 - MusicBrainz Picard plugins: https://picard.musicbrainz.org/plugins/
 
-## Sofia.m4a
-- Reason: no LRCLIB search match
-- Metadata: Sofia - Nuove Tribù Zulu
-- LRCLIB API search: https://lrclib.net/api/search?track_name=Sofia&artist_name=Nuove+Trib%C3%B9+Zulu
-- Hymnary.org text search: https://hymnary.org/search?qu=Sofia+in%3Atexts
+## All Glory, Laud and Honour.m4a
+- Reason: no LRCLIB search match; Hymnary.org fallback failed: HTTPSConnectionPool(host='hymnary.org', port=443): Max retries exceeded with url: /search?qu=All+Glory%2C+Laud+and+Honour+in%3Atexts (Caused by SSLError(SSLError(1, '[SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:1077)')))
+- Metadata: All Glory, Laud and Honour - Choir of All Saints Church, Margaret Street
+- LRCLIB API search: https://lrclib.net/api/search?track_name=All+Glory%2C+Laud+and+Honour&artist_name=Choir+of+All+Saints+Church%2C+Margaret+Street
+- Hymnary.org text search: https://hymnary.org/search?qu=All+Glory%2C+Laud+and+Honour+in%3Atexts
 - Open Hymnal Project: https://openhymnal.org/
 - MusicBrainz Picard plugins: https://picard.musicbrainz.org/plugins/
 
-## Snap Out Of It.m4a
-- Reason: no LRCLIB search match
-- Metadata: Snap Out of It - Crunt
-- LRCLIB API search: https://lrclib.net/api/search?track_name=Snap+Out+of+It&artist_name=Crunt
-- Hymnary.org text search: https://hymnary.org/search?qu=Snap+Out+of+It+in%3Atexts
+## Abide With Me.m4a
+- Reason: no LRCLIB search match; Hymnary.org fallback failed: HTTPSConnectionPool(host='hymnary.org', port=443): Max retries exceeded with url: /search?qu=Abide+With+Me+in%3Atexts (Caused by SSLError(SSLError(1, '[SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:1077)')))
+- Metadata: Abide With Me - Braveheart Piper
+- LRCLIB API search: https://lrclib.net/api/search?track_name=Abide+With+Me&artist_name=Braveheart+Piper
+- Hymnary.org text search: https://hymnary.org/search?qu=Abide+With+Me+in%3Atexts
 - Open Hymnal Project: https://openhymnal.org/
 - MusicBrainz Picard plugins: https://picard.musicbrainz.org/plugins/
 
-## Slow Dance_Evil.m4a
-- Reason: no LRCLIB search match
-- Metadata: slow dance - Evil
-- LRCLIB API search: https://lrclib.net/api/search?track_name=slow+dance&artist_name=Evil
-- Hymnary.org text search: https://hymnary.org/search?qu=slow+dance+in%3Atexts
+## Praise, my soul the King of heaven.m4a
+- Reason: no LRCLIB search match; Hymnary.org fallback failed: HTTPSConnectionPool(host='hymnary.org', port=443): Max retries exceeded with url: /search?qu=Praise+My+Soul+the+King+of+Heaven+in%3Atexts (Caused by SSLError(SSLError(1, '[SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:1077)')))
+- Metadata: Praise My Soul the King of Heaven - Emily DeLoach
+- LRCLIB API search: https://lrclib.net/api/search?track_name=Praise+My+Soul+the+King+of+Heaven&artist_name=Emily+DeLoach
+- Hymnary.org text search: https://hymnary.org/search?qu=Praise+My+Soul+the+King+of+Heaven+in%3Atexts
 - Open Hymnal Project: https://openhymnal.org/
 - MusicBrainz Picard plugins: https://picard.musicbrainz.org/plugins/
 
-## Soul Meets Body_Death Cab for Cutie.mp3
-- Reason: no LRCLIB search match
-- Metadata: Soul Meets Body - Death Cab for Cutie
-- LRCLIB API search: https://lrclib.net/api/search?track_name=Soul+Meets+Body&artist_name=Death+Cab+for+Cutie
-- Hymnary.org text search: https://hymnary.org/search?qu=Soul+Meets+Body+in%3Atexts
+## Lord, I'm Coming Home.m4a
+- Reason: no LRCLIB search match; Hymnary.org fallback failed: HTTPSConnectionPool(host='hymnary.org', port=443): Max retries exceeded with url: /search?qu=Lord%2C+I%27m+Coming+Home+in%3Atexts (Caused by SSLError(SSLError(1, '[SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:1077)')))
+- Metadata: Lord, I'm Coming Home - Tennessee Ernie Ford
+- LRCLIB API search: https://lrclib.net/api/search?track_name=Lord%2C+I%27m+Coming+Home&artist_name=Tennessee+Ernie+Ford
+- Hymnary.org text search: https://hymnary.org/search?qu=Lord%2C+I%27m+Coming+Home+in%3Atexts
 - Open Hymnal Project: https://openhymnal.org/
 - MusicBrainz Picard plugins: https://picard.musicbrainz.org/plugins/
 
-## Square Hammer.m4a
-- Reason: no LRCLIB search match
-- Metadata: Square Hammer - Joel Blido
-- LRCLIB API search: https://lrclib.net/api/search?track_name=Square+Hammer&artist_name=Joel+Blido
-- Hymnary.org text search: https://hymnary.org/search?qu=Square+Hammer+in%3Atexts
+## On Jordan's Bank the Baptist's Cry (Tune Winchester New - 5vv).m4a
+- Reason: no LRCLIB search match; Hymnary.org fallback failed: HTTPSConnectionPool(host='hymnary.org', port=443): Max retries exceeded with url: /search?qu=On+Jordan%27s+Bank+the+Baptist%27s+Cry+in%3Atexts (Caused by SSLError(SSLError(1, '[SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:1077)')))
+- Metadata: On Jordan's Bank the Baptist's Cry - Newcastle Cathedral Choir
+- LRCLIB API search: https://lrclib.net/api/search?track_name=On+Jordan%27s+Bank+the+Baptist%27s+Cry&artist_name=Newcastle+Cathedral+Choir
+- Hymnary.org text search: https://hymnary.org/search?qu=On+Jordan%27s+Bank+the+Baptist%27s+Cry+in%3Atexts
 - Open Hymnal Project: https://openhymnal.org/
 - MusicBrainz Picard plugins: https://picard.musicbrainz.org/plugins/
 
-## Slow Down.m4a
-- Reason: no LRCLIB search match
-- Metadata: Slow Down - The Apollos
-- LRCLIB API search: https://lrclib.net/api/search?track_name=Slow+Down&artist_name=The+Apollos
-- Hymnary.org text search: https://hymnary.org/search?qu=Slow+Down+in%3Atexts
+## O Sacrament Most Holy.m4a
+- Reason: no LRCLIB search match; Hymnary.org fallback failed: HTTPSConnectionPool(host='hymnary.org', port=443): Max retries exceeded with url: /search?qu=O+Sacrament+Most+Holy+in%3Atexts (Caused by SSLError(SSLError(1, '[SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:1077)')))
+- Metadata: O Sacrament Most Holy - Joseph C. Moorman
+- LRCLIB API search: https://lrclib.net/api/search?track_name=O+Sacrament+Most+Holy&artist_name=Joseph+C.+Moorman
+- Hymnary.org text search: https://hymnary.org/search?qu=O+Sacrament+Most+Holy+in%3Atexts
 - Open Hymnal Project: https://openhymnal.org/
 - MusicBrainz Picard plugins: https://picard.musicbrainz.org/plugins/
 
-## Starmachine2000_Wintergatan.m4a
-- Reason: no confident LRCLIB search match
-- Metadata: Starmachine2000 - Wintergatan
-- LRCLIB API search: https://lrclib.net/api/search?track_name=Starmachine2000&artist_name=Wintergatan
-- Hymnary.org text search: https://hymnary.org/search?qu=Starmachine2000+in%3Atexts
+## Praise to the Lord, the Almighty (Nockels, Hymn with Lyrics, Contemporary).m4a
+- Reason: no LRCLIB search match; Hymnary.org fallback failed: HTTPSConnectionPool(host='hymnary.org', port=443): Max retries exceeded with url: /search?qu=Praise+To+The+Lord%2C+The+Almighty+in%3Atexts (Caused by SSLError(SSLError(1, '[SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:1077)')))
+- Metadata: Praise To The Lord, The Almighty - Grace Community Church of Nashville
+- LRCLIB API search: https://lrclib.net/api/search?track_name=Praise+To+The+Lord%2C+The+Almighty&artist_name=Grace+Community+Church+of+Nashville
+- Hymnary.org text search: https://hymnary.org/search?qu=Praise+To+The+Lord%2C+The+Almighty+in%3Atexts
 - Open Hymnal Project: https://openhymnal.org/
 - MusicBrainz Picard plugins: https://picard.musicbrainz.org/plugins/
 
-## Summer Skin_Death Cab for Cutie.mp3
-- Reason: no LRCLIB search match
-- Metadata: Summer Skin - Death Cab for Cutie
-- LRCLIB API search: https://lrclib.net/api/search?track_name=Summer+Skin&artist_name=Death+Cab+for+Cutie
-- Hymnary.org text search: https://hymnary.org/search?qu=Summer+Skin+in%3Atexts
+## My God Loves Me.m4a
+- Reason: no LRCLIB search match; Hymnary.org fallback failed: HTTPSConnectionPool(host='hymnary.org', port=443): Max retries exceeded with url: /search?qu=My+God+Loves+Me+in%3Atexts (Caused by SSLError(SSLError(1, '[SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:1077)')))
+- Metadata: My God Loves Me - Marilla Ness
+- LRCLIB API search: https://lrclib.net/api/search?track_name=My+God+Loves+Me&artist_name=Marilla+Ness
+- Hymnary.org text search: https://hymnary.org/search?qu=My+God+Loves+Me+in%3Atexts
 - Open Hymnal Project: https://openhymnal.org/
 - MusicBrainz Picard plugins: https://picard.musicbrainz.org/plugins/
 
-## Sweet and Tender Hooligan_Death Cab for Cutie.mp3
-- Reason: no LRCLIB search match
-- Metadata: Sweet and Tender Hooligan - Death Cab for Cutie, Sean Nelson
-- LRCLIB API search: https://lrclib.net/api/search?track_name=Sweet+and+Tender+Hooligan&artist_name=Death+Cab+for+Cutie%2C+Sean+Nelson
-- Hymnary.org text search: https://hymnary.org/search?qu=Sweet+and+Tender+Hooligan+in%3Atexts
+## Come, Lord Jesus.m4a
+- Reason: no LRCLIB search match; Hymnary.org fallback failed: HTTPSConnectionPool(host='hymnary.org', port=443): Max retries exceeded with url: /search?qu=Come%2C+Lord+Jesus+in%3Atexts (Caused by SSLError(SSLError(1, '[SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:1077)')))
+- Metadata: Come, Lord Jesus - Stage Production Cast, the Orchestra at Temple Square
+- LRCLIB API search: https://lrclib.net/api/search?track_name=Come%2C+Lord+Jesus&artist_name=Stage+Production+Cast%2C+the+Orchestra+at+Temple+Square
+- Hymnary.org text search: https://hymnary.org/search?qu=Come%2C+Lord+Jesus+in%3Atexts
 - Open Hymnal Project: https://openhymnal.org/
 - MusicBrainz Picard plugins: https://picard.musicbrainz.org/plugins/
 
-## Stable Song_Death Cab for Cutie.mp3
-- Reason: no LRCLIB search match
-- Metadata: Stable Song - Death Cab for Cutie
-- LRCLIB API search: https://lrclib.net/api/search?track_name=Stable+Song&artist_name=Death+Cab+for+Cutie
-- Hymnary.org text search: https://hymnary.org/search?qu=Stable+Song+in%3Atexts
+## Holy Virgin by God's Decree.m4a
+- Reason: no LRCLIB search match; Hymnary.org fallback failed: HTTPSConnectionPool(host='hymnary.org', port=443): Max retries exceeded with url: /search?qu=Holy+Virgin%2C+by+God%27s+Decree+in%3Atexts (Caused by SSLError(SSLError(1, '[SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:1077)')))
+- Metadata: Holy Virgin, by God's Decree - Paul Decha
+- LRCLIB API search: https://lrclib.net/api/search?track_name=Holy+Virgin%2C+by+God%27s+Decree&artist_name=Paul+Decha
+- Hymnary.org text search: https://hymnary.org/search?qu=Holy+Virgin%2C+by+God%27s+Decree+in%3Atexts
 - Open Hymnal Project: https://openhymnal.org/
 - MusicBrainz Picard plugins: https://picard.musicbrainz.org/plugins/
 
-## The Beautiful Puke (feat. 初音ミク).m4a
-- Reason: no LRCLIB search match
-- Metadata: The Beautiful Puke - 鬱P, 初音ミク
-- LRCLIB API search: https://lrclib.net/api/search?track_name=The+Beautiful+Puke&artist_name=%E9%AC%B1P%2C+%E5%88%9D%E9%9F%B3%E3%83%9F%E3%82%AF
-- Hymnary.org text search: https://hymnary.org/search?qu=The+Beautiful+Puke+in%3Atexts
+## Come To The Lord.m4a
+- Reason: no LRCLIB search match; Hymnary.org fallback failed: HTTPSConnectionPool(host='hymnary.org', port=443): Max retries exceeded with url: /search?qu=Come+to+the+Lord+in%3Atexts (Caused by SSLError(SSLError(1, '[SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:1077)')))
+- Metadata: Come to the Lord - Steve Camp
+- LRCLIB API search: https://lrclib.net/api/search?track_name=Come+to+the+Lord&artist_name=Steve+Camp
+- Hymnary.org text search: https://hymnary.org/search?qu=Come+to+the+Lord+in%3Atexts
 - Open Hymnal Project: https://openhymnal.org/
 - MusicBrainz Picard plugins: https://picard.musicbrainz.org/plugins/
 
-## The Hanging Tree (From 'The Hunger Games： Mockingjay' Soundtrack)_James Newton Howard, Jennifer Lawrence.m4a
-- Reason: no LRCLIB search match
-- Metadata: The Hanging Tree - James Newton Howard, Jennifer Lawrence
-- LRCLIB API search: https://lrclib.net/api/search?track_name=The+Hanging+Tree&artist_name=James+Newton+Howard%2C+Jennifer+Lawrence
-- Hymnary.org text search: https://hymnary.org/search?qu=The+Hanging+Tree+in%3Atexts
+## Rejoice Evermore Song.m4a
+- Reason: no LRCLIB search match; Hymnary.org fallback failed: HTTPSConnectionPool(host='hymnary.org', port=443): Max retries exceeded with url: /search?qu=Rejoice+Evermore+in%3Atexts (Caused by SSLError(SSLError(1, '[SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:1077)')))
+- Metadata: Rejoice Evermore - [unknown]
+- LRCLIB API search: https://lrclib.net/api/search?track_name=Rejoice+Evermore&artist_name=%5Bunknown%5D
+- Hymnary.org text search: https://hymnary.org/search?qu=Rejoice+Evermore+in%3Atexts
 - Open Hymnal Project: https://openhymnal.org/
 - MusicBrainz Picard plugins: https://picard.musicbrainz.org/plugins/
 
-## The Substance (Original Motion Picture Score)_Raffertie.m4a
-- Reason: no confident LRCLIB search match
-- Metadata: The Substance - Raffertie
-- LRCLIB API search: https://lrclib.net/api/search?track_name=The+Substance&artist_name=Raffertie
-- Hymnary.org text search: https://hymnary.org/search?qu=The+Substance+in%3Atexts
+## Amazing grace.m4a
+- Reason: no LRCLIB search match; Hymnary.org fallback failed: HTTPSConnectionPool(host='hymnary.org', port=443): Max retries exceeded with url: /search?qu=Amazing+Grace+in%3Atexts (Caused by SSLError(SSLError(1, '[SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:1077)')))
+- Metadata: Amazing Grace - Anna Maria Mendieta
+- LRCLIB API search: https://lrclib.net/api/search?track_name=Amazing+Grace&artist_name=Anna+Maria+Mendieta
+- Hymnary.org text search: https://hymnary.org/search?qu=Amazing+Grace+in%3Atexts
 - Open Hymnal Project: https://openhymnal.org/
 - MusicBrainz Picard plugins: https://picard.musicbrainz.org/plugins/
 
-## The Subway_Chappell Roan.m4a
-- Reason: no LRCLIB search match
-- Metadata: The Subway - Chappell Roan
-- LRCLIB API search: https://lrclib.net/api/search?track_name=The+Subway&artist_name=Chappell+Roan
-- Hymnary.org text search: https://hymnary.org/search?qu=The+Subway+in%3Atexts
+## Precious Lord Take My Hand (with lyrics) - The most Beautiful and Peaceful Hymn.m4a
+- Reason: no LRCLIB search match; Hymnary.org fallback failed: HTTPSConnectionPool(host='hymnary.org', port=443): Max retries exceeded with url: /search?qu=Precious+Lord%2C+Take+My+Hand+in%3Atexts (Caused by SSLError(SSLError(1, '[SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:1077)')))
+- Metadata: Precious Lord, Take My Hand - Mormon Youth Symphony
+- LRCLIB API search: https://lrclib.net/api/search?track_name=Precious+Lord%2C+Take+My+Hand&artist_name=Mormon+Youth+Symphony
+- Hymnary.org text search: https://hymnary.org/search?qu=Precious+Lord%2C+Take+My+Hand+in%3Atexts
 - Open Hymnal Project: https://openhymnal.org/
 - MusicBrainz Picard plugins: https://picard.musicbrainz.org/plugins/
 
-## This Ain't A Scene, It's An Arms Race.m4a
-- Reason: no LRCLIB search match
-- Metadata: This Ain't a Scene, It's An Arms Race - Twinkle Twinkle Little Rock Star
-- LRCLIB API search: https://lrclib.net/api/search?track_name=This+Ain%27t+a+Scene%2C+It%27s+An+Arms+Race&artist_name=Twinkle+Twinkle+Little+Rock+Star
-- Hymnary.org text search: https://hymnary.org/search?qu=This+Ain%27t+a+Scene%2C+It%27s+An+Arms+Race+in%3Atexts
+## Holy Is His Name.m4a
+- Reason: no LRCLIB search match; Hymnary.org fallback failed: HTTPSConnectionPool(host='hymnary.org', port=443): Max retries exceeded with url: /search?qu=Holy+Is+His+Name+in%3Atexts (Caused by SSLError(SSLError(1, '[SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:1077)')))
+- Metadata: Holy Is His Name - Marilla Ness
+- LRCLIB API search: https://lrclib.net/api/search?track_name=Holy+Is+His+Name&artist_name=Marilla+Ness
+- Hymnary.org text search: https://hymnary.org/search?qu=Holy+Is+His+Name+in%3Atexts
 - Open Hymnal Project: https://openhymnal.org/
 - MusicBrainz Picard plugins: https://picard.musicbrainz.org/plugins/
 
-## The Phoenix.m4a
-- Reason: no LRCLIB search match
-- Metadata: The Phoenix - Deborah Henson-Conant
-- LRCLIB API search: https://lrclib.net/api/search?track_name=The+Phoenix&artist_name=Deborah+Henson-Conant
-- Hymnary.org text search: https://hymnary.org/search?qu=The+Phoenix+in%3Atexts
+## Blest Are They (with lyrics).m4a
+- Reason: no LRCLIB search match; Hymnary.org fallback failed: HTTPSConnectionPool(host='hymnary.org', port=443): Max retries exceeded with url: /search?qu=Blest+Are+They+in%3Atexts (Caused by SSLError(SSLError(1, '[SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:1077)')))
+- Metadata: Blest Are They - Rebecca Arons, Richard Dworsky
+- LRCLIB API search: https://lrclib.net/api/search?track_name=Blest+Are+They&artist_name=Rebecca+Arons%2C+Richard+Dworsky
+- Hymnary.org text search: https://hymnary.org/search?qu=Blest+Are+They+in%3Atexts
 - Open Hymnal Project: https://openhymnal.org/
 - MusicBrainz Picard plugins: https://picard.musicbrainz.org/plugins/
 
-## The Sound of Settling_Death Cab for Cutie.mp3
-- Reason: no LRCLIB search match
-- Metadata: The Sound of Settling - Death Cab for Cutie
-- LRCLIB API search: https://lrclib.net/api/search?track_name=The+Sound+of+Settling&artist_name=Death+Cab+for+Cutie
-- Hymnary.org text search: https://hymnary.org/search?qu=The+Sound+of+Settling+in%3Atexts
+## O Let the Son of God Enfold You (Spirit Song).m4a
+- Reason: no LRCLIB search match; Hymnary.org fallback failed: HTTPSConnectionPool(host='hymnary.org', port=443): Max retries exceeded with url: /search?qu=O+Let+The+Son+Of+God+Enfold+You+in%3Atexts (Caused by SSLError(SSLError(1, '[SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:1077)')))
+- Metadata: O Let The Son Of God Enfold You - Jonathan Veira
+- LRCLIB API search: https://lrclib.net/api/search?track_name=O+Let+The+Son+Of+God+Enfold+You&artist_name=Jonathan+Veira
+- Hymnary.org text search: https://hymnary.org/search?qu=O+Let+The+Son+Of+God+Enfold+You+in%3Atexts
 - Open Hymnal Project: https://openhymnal.org/
 - MusicBrainz Picard plugins: https://picard.musicbrainz.org/plugins/
 
-## Title and Registration_Death Cab for Cutie.mp3
-- Reason: no LRCLIB search match
-- Metadata: Title and Registration - Death Cab for Cutie
-- LRCLIB API search: https://lrclib.net/api/search?track_name=Title+and+Registration&artist_name=Death+Cab+for+Cutie
-- Hymnary.org text search: https://hymnary.org/search?qu=Title+and+Registration+in%3Atexts
+## Spirit of the Living God (with lyrics) - Most beautiful hymn!.m4a
+- Reason: no LRCLIB search match; Hymnary.org fallback failed: HTTPSConnectionPool(host='hymnary.org', port=443): Max retries exceeded with url: /search?qu=Spirit+of+the+Living+God+in%3Atexts (Caused by SSLError(SSLError(1, '[SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:1077)')))
+- Metadata: Spirit of the Living God - Foundation Brass
+- LRCLIB API search: https://lrclib.net/api/search?track_name=Spirit+of+the+Living+God&artist_name=Foundation+Brass
+- Hymnary.org text search: https://hymnary.org/search?qu=Spirit+of+the+Living+God+in%3Atexts
 - Open Hymnal Project: https://openhymnal.org/
 - MusicBrainz Picard plugins: https://picard.musicbrainz.org/plugins/
 
-## Toxic.m4a
-- Reason: no LRCLIB search match
-- Metadata: Toxic - David Rogers, Paul Shaw
-- LRCLIB API search: https://lrclib.net/api/search?track_name=Toxic&artist_name=David+Rogers%2C+Paul+Shaw
-- Hymnary.org text search: https://hymnary.org/search?qu=Toxic+in%3Atexts
+## Ride on ride on in majesty (Hymn with lyrics).m4a
+- Reason: no LRCLIB search match; Hymnary.org fallback failed: HTTPSConnectionPool(host='hymnary.org', port=443): Max retries exceeded with url: /search?qu=Ride+On%2C+Ride+On+In+Majesty+in%3Atexts (Caused by SSLError(SSLError(1, '[SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:1077)')))
+- Metadata: Ride On, Ride On In Majesty - Choir of All Saints Church, Margaret Street
+- LRCLIB API search: https://lrclib.net/api/search?track_name=Ride+On%2C+Ride+On+In+Majesty&artist_name=Choir+of+All+Saints+Church%2C+Margaret+Street
+- Hymnary.org text search: https://hymnary.org/search?qu=Ride+On%2C+Ride+On+In+Majesty+in%3Atexts
 - Open Hymnal Project: https://openhymnal.org/
 - MusicBrainz Picard plugins: https://picard.musicbrainz.org/plugins/
 
-## Townie_Mitski.mp3
-- Reason: no LRCLIB search match
-- Metadata: Townie - Mitski
-- LRCLIB API search: https://lrclib.net/api/search?track_name=Townie&artist_name=Mitski
-- Hymnary.org text search: https://hymnary.org/search?qu=Townie+in%3Atexts
+## Send Forth Your Spirit, O Lord – Christopher Walker.m4a
+- Reason: no LRCLIB search match; Hymnary.org fallback failed: HTTPSConnectionPool(host='hymnary.org', port=443): Max retries exceeded with url: /search?qu=Psalm+104%3A+Send+Forth+Your+Spirit%2C+O+Lord+in%3Atexts (Caused by SSLError(SSLError(1, '[SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:1077)')))
+- Metadata: Psalm 104: Send Forth Your Spirit, O Lord - Christopher Walker
+- LRCLIB API search: https://lrclib.net/api/search?track_name=Psalm+104%3A+Send+Forth+Your+Spirit%2C+O+Lord&artist_name=Christopher+Walker
+- Hymnary.org text search: https://hymnary.org/search?qu=Psalm+104%3A+Send+Forth+Your+Spirit%2C+O+Lord+in%3Atexts
 - Open Hymnal Project: https://openhymnal.org/
 - MusicBrainz Picard plugins: https://picard.musicbrainz.org/plugins/
 
-## Tourniquet_Marilyn Manson.m4a
-- Reason: no LRCLIB search match
-- Metadata: Tourniquet - Marilyn Manson
-- LRCLIB API search: https://lrclib.net/api/search?track_name=Tourniquet&artist_name=Marilyn+Manson
-- Hymnary.org text search: https://hymnary.org/search?qu=Tourniquet+in%3Atexts
+## Take and Eat with lyrics (Tune and Text by Michael Joncas) Hymn.m4a
+- Reason: no LRCLIB search match; Hymnary.org fallback failed: HTTPSConnectionPool(host='hymnary.org', port=443): Max retries exceeded with url: /search?qu=Take+and+Eat+in%3Atexts (Caused by SSLError(SSLError(1, '[SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:1077)')))
+- Metadata: Take and Eat - Wisconsin Evangelical Lutheran Synod Commission on Worship
+- LRCLIB API search: https://lrclib.net/api/search?track_name=Take+and+Eat&artist_name=Wisconsin+Evangelical+Lutheran+Synod+Commission+on+Worship
+- Hymnary.org text search: https://hymnary.org/search?qu=Take+and+Eat+in%3Atexts
 - Open Hymnal Project: https://openhymnal.org/
 - MusicBrainz Picard plugins: https://picard.musicbrainz.org/plugins/
 
-## Title and Registration_Death Cab for Cutie.m4a
+## We Are Here To Praise You.m4a
 - Reason: no LRCLIB search match
-- Metadata: Title and Registration - Death Cab for Cutie
-- LRCLIB API search: https://lrclib.net/api/search?track_name=Title+and+Registration&artist_name=Death+Cab+for+Cutie
-- Hymnary.org text search: https://hymnary.org/search?qu=Title+and+Registration+in%3Atexts
+- Metadata: We Are Here to Praise You - Rob, Gilly Bennett
+- LRCLIB API search: https://lrclib.net/api/search?track_name=We+Are+Here+to+Praise+You&artist_name=Rob%2C+Gilly+Bennett
+- Hymnary.org text search: https://hymnary.org/search?qu=We+Are+Here+to+Praise+You+in%3Atexts
 - Open Hymnal Project: https://openhymnal.org/
 - MusicBrainz Picard plugins: https://picard.musicbrainz.org/plugins/
 
-## Toxic_Britney Spears.m4a
-- Reason: no LRCLIB search match
-- Metadata: Toxic - Britney Spears
-- LRCLIB API search: https://lrclib.net/api/search?track_name=Toxic&artist_name=Britney+Spears
-- Hymnary.org text search: https://hymnary.org/search?qu=Toxic+in%3Atexts
+## Lord, Who Throughout These Forty Days.m4a
+- Reason: no LRCLIB search match; Hymnary.org fallback failed: HTTPSConnectionPool(host='hymnary.org', port=443): Max retries exceeded with url: /search?qu=Lord%2C+Who+Throughout+These+Forty+Days+in%3Atexts (Caused by SSLError(SSLError(1, '[SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:1077)')))
+- Metadata: Lord, Who Throughout These Forty Days - Claudia F. Hernaman, Richard Redhead
+- LRCLIB API search: https://lrclib.net/api/search?track_name=Lord%2C+Who+Throughout+These+Forty+Days&artist_name=Claudia+F.+Hernaman%2C+Richard+Redhead
+- Hymnary.org text search: https://hymnary.org/search?qu=Lord%2C+Who+Throughout+These+Forty+Days+in%3Atexts
 - Open Hymnal Project: https://openhymnal.org/
 - MusicBrainz Picard plugins: https://picard.musicbrainz.org/plugins/
 
-## Uma Thurman.m4a
-- Reason: no LRCLIB search match
-- Metadata: Uma Thurman - Los Turis
-- LRCLIB API search: https://lrclib.net/api/search?track_name=Uma+Thurman&artist_name=Los+Turis
-- Hymnary.org text search: https://hymnary.org/search?qu=Uma+Thurman+in%3Atexts
+## Shine Jesus Shine (with lyrics).m4a
+- Reason: no LRCLIB search match; Hymnary.org fallback failed: HTTPSConnectionPool(host='hymnary.org', port=443): Max retries exceeded with url: /search?qu=Shine+Jesus+Shine+in%3Atexts (Caused by SSLError(SSLError(1, '[SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:1077)')))
+- Metadata: Shine Jesus Shine - The Vineyard, Andy Park
+- LRCLIB API search: https://lrclib.net/api/search?track_name=Shine+Jesus+Shine&artist_name=The+Vineyard%2C+Andy+Park
+- Hymnary.org text search: https://hymnary.org/search?qu=Shine+Jesus+Shine+in%3Atexts
 - Open Hymnal Project: https://openhymnal.org/
 - MusicBrainz Picard plugins: https://picard.musicbrainz.org/plugins/
 
-## Ribs_Lorde.m4a
-- Reason: no LRCLIB search match; Hymnary.org fallback failed: 403 Client Error: Forbidden for url: https://hymnary.org/text/ribs_lorde
-- Metadata: Ribs - Lorde
-- LRCLIB API search: https://lrclib.net/api/search?track_name=Ribs&artist_name=Lorde
-- Hymnary.org text search: https://hymnary.org/search?qu=Ribs+in%3Atexts
+## God Is Good To Me Song.m4a
+- Reason: no LRCLIB search match; Hymnary.org fallback failed: HTTPSConnectionPool(host='hymnary.org', port=443): Max retries exceeded with url: /search?qu=God+Is+Good+to+Me+in%3Atexts (Caused by SSLError(SSLError(1, '[SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:1077)')))
+- Metadata: God Is Good to Me - The Caravans
+- LRCLIB API search: https://lrclib.net/api/search?track_name=God+Is+Good+to+Me&artist_name=The+Caravans
+- Hymnary.org text search: https://hymnary.org/search?qu=God+Is+Good+to+Me+in%3Atexts
 - Open Hymnal Project: https://openhymnal.org/
 - MusicBrainz Picard plugins: https://picard.musicbrainz.org/plugins/
 
-## Upside Down_Jack Johnson.m4a
-- Reason: no LRCLIB search match
-- Metadata: Upside Down - Jack Johnson
-- LRCLIB API search: https://lrclib.net/api/search?track_name=Upside+Down&artist_name=Jack+Johnson
-- Hymnary.org text search: https://hymnary.org/search?qu=Upside+Down+in%3Atexts
+## They'll Know We Are Christians (By Our Love).m4a
+- Reason: no LRCLIB search match; Hymnary.org fallback failed: HTTPSConnectionPool(host='hymnary.org', port=443): Max retries exceeded with url: /search?qu=They%27ll+Know+We+Are+Christians+in%3Atexts (Caused by SSLError(SSLError(1, '[SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:1077)')))
+- Metadata: They'll Know We Are Christians - Holy Smoke Too
+- LRCLIB API search: https://lrclib.net/api/search?track_name=They%27ll+Know+We+Are+Christians&artist_name=Holy+Smoke+Too
+- Hymnary.org text search: https://hymnary.org/search?qu=They%27ll+Know+We+Are+Christians+in%3Atexts
 - Open Hymnal Project: https://openhymnal.org/
 - MusicBrainz Picard plugins: https://picard.musicbrainz.org/plugins/
 
-## Transatlanticism_Death Cab for Cutie.mp3
+## Yes I Shall Arise Song.m4a
 - Reason: no LRCLIB search match
-- Metadata: Transatlanticism - Death Cab for Cutie
-- LRCLIB API search: https://lrclib.net/api/search?track_name=Transatlanticism&artist_name=Death+Cab+for+Cutie
-- Hymnary.org text search: https://hymnary.org/search?qu=Transatlanticism+in%3Atexts
+- Metadata: Yes, I Shall Arise - Owen Alstott, Craig Kingsbury
+- LRCLIB API search: https://lrclib.net/api/search?track_name=Yes%2C+I+Shall+Arise&artist_name=Owen+Alstott%2C+Craig+Kingsbury
+- Hymnary.org text search: https://hymnary.org/search?qu=Yes%2C+I+Shall+Arise+in%3Atexts
 - Open Hymnal Project: https://openhymnal.org/
 - MusicBrainz Picard plugins: https://picard.musicbrainz.org/plugins/
 
-## Transatlanticism_Death Cab for Cutie.m4a
-- Reason: no LRCLIB search match
-- Metadata: Transatlanticism - Death Cab for Cutie
-- LRCLIB API search: https://lrclib.net/api/search?track_name=Transatlanticism&artist_name=Death+Cab+for+Cutie
-- Hymnary.org text search: https://hymnary.org/search?qu=Transatlanticism+in%3Atexts
+## This Day God Gives Me.m4a
+- Reason: no LRCLIB search match; Hymnary.org fallback failed: HTTPSConnectionPool(host='hymnary.org', port=443): Max retries exceeded with url: /search?qu=This+Day+God+Gives+Me+in%3Atexts (Caused by SSLError(SSLError(1, '[SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:1077)')))
+- Metadata: This Day God Gives Me - James Quinn SJ
+- LRCLIB API search: https://lrclib.net/api/search?track_name=This+Day+God+Gives+Me&artist_name=James+Quinn+SJ
+- Hymnary.org text search: https://hymnary.org/search?qu=This+Day+God+Gives+Me+in%3Atexts
 - Open Hymnal Project: https://openhymnal.org/
 - MusicBrainz Picard plugins: https://picard.musicbrainz.org/plugins/
 
-## Violin V_Helion.m4a
-- Reason: no LRCLIB search match
-- Metadata: Violin V - Helion
-- LRCLIB API search: https://lrclib.net/api/search?track_name=Violin+V&artist_name=Helion
-- Hymnary.org text search: https://hymnary.org/search?qu=Violin+V+in%3Atexts
+## The Lord’s My Shepherd, I’ll Not Want (Metropolitan Tabernacle).m4a
+- Reason: no LRCLIB search match; Hymnary.org fallback failed: HTTPSConnectionPool(host='hymnary.org', port=443): Max retries exceeded with url: /search?qu=The+Lord%E2%80%99s+My+Shepherd%2C+I%E2%80%99ll+Not+Want+in%3Atexts (Caused by SSLError(SSLError(1, '[SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:1077)')))
+- Metadata: The Lord’s My Shepherd, I’ll Not Want - Florida College Chorus
+- LRCLIB API search: https://lrclib.net/api/search?track_name=The+Lord%E2%80%99s+My+Shepherd%2C+I%E2%80%99ll+Not+Want&artist_name=Florida+College+Chorus
+- Hymnary.org text search: https://hymnary.org/search?qu=The+Lord%E2%80%99s+My+Shepherd%2C+I%E2%80%99ll+Not+Want+in%3Atexts
 - Open Hymnal Project: https://openhymnal.org/
 - MusicBrainz Picard plugins: https://picard.musicbrainz.org/plugins/
 
-## WNDRLND (feat. Roxi)_Robby Burke, Roxi.m4a
-- Reason: no LRCLIB search match
-- Metadata: WNDRLND - Robby Burke, Roxi
-- LRCLIB API search: https://lrclib.net/api/search?track_name=WNDRLND&artist_name=Robby+Burke%2C+Roxi
-- Hymnary.org text search: https://hymnary.org/search?qu=WNDRLND+in%3Atexts
+## The Lord Is Near Song.m4a
+- Reason: no LRCLIB search match; Hymnary.org fallback failed: HTTPSConnectionPool(host='hymnary.org', port=443): Max retries exceeded with url: /search?qu=The+Lord+Is+Near+in%3Atexts (Caused by SSLError(SSLError(1, '[SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:1077)')))
+- Metadata: The Lord Is Near - Ministério Life
+- LRCLIB API search: https://lrclib.net/api/search?track_name=The+Lord+Is+Near&artist_name=Minist%C3%A9rio+Life
+- Hymnary.org text search: https://hymnary.org/search?qu=The+Lord+Is+Near+in%3Atexts
 - Open Hymnal Project: https://openhymnal.org/
 - MusicBrainz Picard plugins: https://picard.musicbrainz.org/plugins/
 
-## Who Shot Ya？ (2005 Remaster)_The Notorious B.I.G..m4a
+## You Have Everything Song.m4a
 - Reason: no LRCLIB search match
-- Metadata: Who Shot Ya - The Notorious B.I.G.
-- LRCLIB API search: https://lrclib.net/api/search?track_name=Who+Shot+Ya&artist_name=The+Notorious+B.I.G.
-- Hymnary.org text search: https://hymnary.org/search?qu=Who+Shot+Ya+in%3Atexts
-- Open Hymnal Project: https://openhymnal.org/
-- MusicBrainz Picard plugins: https://picard.musicbrainz.org/plugins/
-
-## Smells Like Teen Spirit_Nirvana.m4a
-- Reason: no LRCLIB search match; Hymnary.org fallback failed: 403 Client Error: Forbidden for url: https://hymnary.org/text/smells_like_teen_spirit_nirvana
-- Metadata: Smells Like Teen Spirit - Nirvana
-- LRCLIB API search: https://lrclib.net/api/search?track_name=Smells+Like+Teen+Spirit&artist_name=Nirvana
-- Hymnary.org text search: https://hymnary.org/search?qu=Smells+Like+Teen+Spirit+in%3Atexts
+- Metadata: You Have Everything - Mitch McVicker
+- LRCLIB API search: https://lrclib.net/api/search?track_name=You+Have+Everything&artist_name=Mitch+McVicker
+- Hymnary.org text search: https://hymnary.org/search?qu=You+Have+Everything+in%3Atexts
 - Open Hymnal Project: https://openhymnal.org/
 - MusicBrainz Picard plugins: https://picard.musicbrainz.org/plugins/
 
-## Where Did The Party Go.m4a
-- Reason: no LRCLIB search match
-- Metadata: Where Did The Party Go? - Mr. Bird, Greg Blackman
-- LRCLIB API search: https://lrclib.net/api/search?track_name=Where+Did+The+Party+Go%3F&artist_name=Mr.+Bird%2C+Greg+Blackman
-- Hymnary.org text search: https://hymnary.org/search?qu=Where+Did+The+Party+Go%3F+in%3Atexts
+## There shall be showers of blessing song.m4a
+- Reason: no LRCLIB search match; Hymnary.org fallback failed: HTTPSConnectionPool(host='hymnary.org', port=443): Max retries exceeded with url: /search?qu=There+Shall+Be+Showers+of+Blessing+in%3Atexts (Caused by SSLError(SSLError(1, '[SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:1077)')))
+- Metadata: There Shall Be Showers of Blessing - Mike Timoney
+- LRCLIB API search: https://lrclib.net/api/search?track_name=There+Shall+Be+Showers+of+Blessing&artist_name=Mike+Timoney
+- Hymnary.org text search: https://hymnary.org/search?qu=There+Shall+Be+Showers+of+Blessing+in%3Atexts
 - Open Hymnal Project: https://openhymnal.org/
 - MusicBrainz Picard plugins: https://picard.musicbrainz.org/plugins/
 
-## Your Bruise_Death Cab for Cutie[Something About Airplanes 11].mp3
-- Reason: no LRCLIB search match
-- Metadata: Your Bruise - Death Cab for Cutie
-- LRCLIB API search: https://lrclib.net/api/search?track_name=Your+Bruise&artist_name=Death+Cab+for+Cutie
-- Hymnary.org text search: https://hymnary.org/search?qu=Your+Bruise+in%3Atexts
+## Therefore We, Before Him Bending (Tantum Ergo).m4a
+- Reason: no LRCLIB search match; Hymnary.org fallback failed: HTTPSConnectionPool(host='hymnary.org', port=443): Max retries exceeded with url: /search?qu=Therefore+We%2C+Before+Him+Bending+in%3Atexts (Caused by SSLError(SSLError(1, '[SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:1077)')))
+- Metadata: Therefore We, Before Him Bending - Schola Cantamus
+- LRCLIB API search: https://lrclib.net/api/search?track_name=Therefore+We%2C+Before+Him+Bending&artist_name=Schola+Cantamus
+- Hymnary.org text search: https://hymnary.org/search?qu=Therefore+We%2C+Before+Him+Bending+in%3Atexts
 - Open Hymnal Project: https://openhymnal.org/
 - MusicBrainz Picard plugins: https://picard.musicbrainz.org/plugins/
 
-## Your Bruise_Death Cab for Cutie.mp3
-- Reason: no LRCLIB search match
-- Metadata: Your Bruise - Death Cab for Cutie
-- LRCLIB API search: https://lrclib.net/api/search?track_name=Your+Bruise&artist_name=Death+Cab+for+Cutie
-- Hymnary.org text search: https://hymnary.org/search?qu=Your+Bruise+in%3Atexts
+## We Three Kings.m4a
+- Reason: no LRCLIB search match; Hymnary.org fallback failed: HTTPSConnectionPool(host='hymnary.org', port=443): Max retries exceeded with url: /search?qu=We+Three+Kings+in%3Atexts (Caused by SSLError(SSLError(1, '[SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:1077)')))
+- Metadata: We Three Kings - Tommy Eyre
+- LRCLIB API search: https://lrclib.net/api/search?track_name=We+Three+Kings&artist_name=Tommy+Eyre
+- Hymnary.org text search: https://hymnary.org/search?qu=We+Three+Kings+in%3Atexts
 - Open Hymnal Project: https://openhymnal.org/
 - MusicBrainz Picard plugins: https://picard.musicbrainz.org/plugins/
 
-## engravings.m4a
-- Reason: no LRCLIB search match
-- Metadata: Engravings - Ira Stein, Russel Walder
-- LRCLIB API search: https://lrclib.net/api/search?track_name=Engravings&artist_name=Ira+Stein%2C+Russel+Walder
-- Hymnary.org text search: https://hymnary.org/search?qu=Engravings+in%3Atexts
+## What Child Is This.m4a
+- Reason: no LRCLIB search match; Hymnary.org fallback failed: HTTPSConnectionPool(host='hymnary.org', port=443): Max retries exceeded with url: /search?qu=What+Child+Is+This%3F+in%3Atexts (Caused by SSLError(SSLError(1, '[SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:1077)')))
+- Metadata: What Child Is This? - Discovery Singers
+- LRCLIB API search: https://lrclib.net/api/search?track_name=What+Child+Is+This%3F&artist_name=Discovery+Singers
+- Hymnary.org text search: https://hymnary.org/search?qu=What+Child+Is+This%3F+in%3Atexts
 - Open Hymnal Project: https://openhymnal.org/
 - MusicBrainz Picard plugins: https://picard.musicbrainz.org/plugins/
 
-## West Coast_Lana Del Rey.m4a
-- Reason: no LRCLIB search match
-- Metadata: West Coast - Lana Del Rey
-- LRCLIB API search: https://lrclib.net/api/search?track_name=West+Coast&artist_name=Lana+Del+Rey
-- Hymnary.org text search: https://hymnary.org/search?qu=West+Coast+in%3Atexts
+## While Shepherds Watched Their Flocks (Hymn Charts with Lyrics, Contemporary).m4a
+- Reason: no LRCLIB search match; Hymnary.org fallback failed: HTTPSConnectionPool(host='hymnary.org', port=443): Max retries exceeded with url: /search?qu=While+Shepherds+Watched+Their+Flocks+in%3Atexts (Caused by SSLError(SSLError(1, '[SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:1077)')))
+- Metadata: While Shepherds Watched Their Flocks - Pinky & Perky
+- LRCLIB API search: https://lrclib.net/api/search?track_name=While+Shepherds+Watched+Their+Flocks&artist_name=Pinky+%26+Perky
+- Hymnary.org text search: https://hymnary.org/search?qu=While+Shepherds+Watched+Their+Flocks+in%3Atexts
 - Open Hymnal Project: https://openhymnal.org/
 - MusicBrainz Picard plugins: https://picard.musicbrainz.org/plugins/
 
-## Young And Beautiful_Lana Del Rey.m4a
-- Reason: no LRCLIB search match
-- Metadata: Young and Beautiful - Lana Del Rey
-- LRCLIB API search: https://lrclib.net/api/search?track_name=Young+and+Beautiful&artist_name=Lana+Del+Rey
-- Hymnary.org text search: https://hymnary.org/search?qu=Young+and+Beautiful+in%3Atexts
+## We Have Come into His House.m4a
+- Reason: no LRCLIB search match; Hymnary.org fallback failed: HTTPSConnectionPool(host='hymnary.org', port=443): Max retries exceeded with url: /search?qu=We+Have+Come+Into+His+House+in%3Atexts (Caused by SSLError(SSLError(1, '[SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:1077)')))
+- Metadata: We Have Come Into His House - Heritage Singers
+- LRCLIB API search: https://lrclib.net/api/search?track_name=We+Have+Come+Into+His+House&artist_name=Heritage+Singers
+- Hymnary.org text search: https://hymnary.org/search?qu=We+Have+Come+Into+His+House+in%3Atexts
 - Open Hymnal Project: https://openhymnal.org/
 - MusicBrainz Picard plugins: https://picard.musicbrainz.org/plugins/
 
-## Supercut_Lorde.m4a
-- Reason: no LRCLIB search match; Hymnary.org fallback failed: 403 Client Error: Forbidden for url: https://hymnary.org/text/supercut_lorde
-- Metadata: Supercut - Lorde
-- LRCLIB API search: https://lrclib.net/api/search?track_name=Supercut&artist_name=Lorde
-- Hymnary.org text search: https://hymnary.org/search?qu=Supercut+in%3Atexts
+## What A Friend We Have In Jesus.m4a
+- Reason: no LRCLIB search match; Hymnary.org fallback failed: HTTPSConnectionPool(host='hymnary.org', port=443): Max retries exceeded with url: /search?qu=What+a+Friend+We+Have+in+Jesus+in%3Atexts (Caused by SSLError(SSLError(1, '[SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:1077)')))
+- Metadata: What a Friend We Have in Jesus - Robert Ward
+- LRCLIB API search: https://lrclib.net/api/search?track_name=What+a+Friend+We+Have+in+Jesus&artist_name=Robert+Ward
+- Hymnary.org text search: https://hymnary.org/search?qu=What+a+Friend+We+Have+in+Jesus+in%3Atexts
 - Open Hymnal Project: https://openhymnal.org/
 - MusicBrainz Picard plugins: https://picard.musicbrainz.org/plugins/
 
-## i love you_Billie Eilish.m4a
-- Reason: no LRCLIB search match
-- Metadata: i love you - Billie Eilish
-- LRCLIB API search: https://lrclib.net/api/search?track_name=i+love+you&artist_name=Billie+Eilish
-- Hymnary.org text search: https://hymnary.org/search?qu=i+love+you+in%3Atexts
+## God Still Loves The World (HYMN) By Saurav Goswami.m4a
+- Reason: no LRCLIB search match; Hymnary.org fallback failed: HTTPSConnectionPool(host='hymnary.org', port=443): Max retries exceeded with url: /text/god_still_loves_the_world_the_hemphills (Caused by SSLError(SSLError(1, '[SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:1077)')))
+- Metadata: God Still Loves the World - The Hemphills
+- LRCLIB API search: https://lrclib.net/api/search?track_name=God+Still+Loves+the+World&artist_name=The+Hemphills
+- Hymnary.org text search: https://hymnary.org/search?qu=God+Still+Loves+the+World+in%3Atexts
 - Open Hymnal Project: https://openhymnal.org/
 - MusicBrainz Picard plugins: https://picard.musicbrainz.org/plugins/
 
-## Your New Twin Sized Bed_Death Cab for Cutie.mp3
-- Reason: no LRCLIB search match
-- Metadata: Your New Twin Sized Bed - Death Cab for Cutie
-- LRCLIB API search: https://lrclib.net/api/search?track_name=Your+New+Twin+Sized+Bed&artist_name=Death+Cab+for+Cutie
-- Hymnary.org text search: https://hymnary.org/search?qu=Your+New+Twin+Sized+Bed+in%3Atexts
+## Mary Most Holy.m4a
+- Reason: no LRCLIB search match; Hymnary.org fallback failed: HTTPSConnectionPool(host='hymnary.org', port=443): Max retries exceeded with url: /text/mary_most_holy_marilla_ness (Caused by SSLError(SSLError(1, '[SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:1077)')))
+- Metadata: Mary Most Holy - Marilla Ness
+- LRCLIB API search: https://lrclib.net/api/search?track_name=Mary+Most+Holy&artist_name=Marilla+Ness
+- Hymnary.org text search: https://hymnary.org/search?qu=Mary+Most+Holy+in%3Atexts
 - Open Hymnal Project: https://openhymnal.org/
 - MusicBrainz Picard plugins: https://picard.musicbrainz.org/plugins/
 
-## まっしろやみのくろ (feat. 初音ミク).m4a
-- Reason: no LRCLIB search match
-- Metadata: まっしろやみのくろ - ばぶちゃん
-- LRCLIB API search: https://lrclib.net/api/search?track_name=%E3%81%BE%E3%81%A3%E3%81%97%E3%82%8D%E3%82%84%E3%81%BF%E3%81%AE%E3%81%8F%E3%82%8D&artist_name=%E3%81%B0%E3%81%B6%E3%81%A1%E3%82%83%E3%82%93
-- Hymnary.org text search: https://hymnary.org/search?qu=%E3%81%BE%E3%81%A3%E3%81%97%E3%82%8D%E3%82%84%E3%81%BF%E3%81%AE%E3%81%8F%E3%82%8D+in%3Atexts
+## O Lord, I am not worthy (Catholic Gregorian Chant).m4a
+- Reason: no LRCLIB search match; Hymnary.org fallback failed: HTTPSConnectionPool(host='hymnary.org', port=443): Max retries exceeded with url: /text/o_lord_i_am_not_worthy_lorraine_doan (Caused by SSLError(SSLError(1, '[SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:1077)')))
+- Metadata: O Lord, I Am Not Worthy - Lorraine Doan
+- LRCLIB API search: https://lrclib.net/api/search?track_name=O+Lord%2C+I+Am+Not+Worthy&artist_name=Lorraine+Doan
+- Hymnary.org text search: https://hymnary.org/search?qu=O+Lord%2C+I+Am+Not+Worthy+in%3Atexts
 - Open Hymnal Project: https://openhymnal.org/
 - MusicBrainz Picard plugins: https://picard.musicbrainz.org/plugins/
 
-## 国語算数理科社会 (feat. 初音ミク).m4a
-- Reason: no LRCLIB search match
-- Metadata: 国語算数理科社会 - ばぶちゃん, 初音ミク
-- LRCLIB API search: https://lrclib.net/api/search?track_name=%E5%9B%BD%E8%AA%9E%E7%AE%97%E6%95%B0%E7%90%86%E7%A7%91%E7%A4%BE%E4%BC%9A&artist_name=%E3%81%B0%E3%81%B6%E3%81%A1%E3%82%83%E3%82%93%2C+%E5%88%9D%E9%9F%B3%E3%83%9F%E3%82%AF
-- Hymnary.org text search: https://hymnary.org/search?qu=%E5%9B%BD%E8%AA%9E%E7%AE%97%E6%95%B0%E7%90%86%E7%A7%91%E7%A4%BE%E4%BC%9A+in%3Atexts
+## Ding Dong Merrily on High.m4a
+- Reason: no LRCLIB search match; Hymnary.org fallback failed: HTTPSConnectionPool(host='hymnary.org', port=443): Max retries exceeded with url: /text/ding_dong_merrily_on_high_the_wiggles (Caused by SSLError(SSLError(1, '[SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:1077)')))
+- Metadata: Ding Dong Merrily on High - The Wiggles
+- LRCLIB API search: https://lrclib.net/api/search?track_name=Ding+Dong+Merrily+on+High&artist_name=The+Wiggles
+- Hymnary.org text search: https://hymnary.org/search?qu=Ding+Dong+Merrily+on+High+in%3Atexts
 - Open Hymnal Project: https://openhymnal.org/
 - MusicBrainz Picard plugins: https://picard.musicbrainz.org/plugins/
 
-## なまえとつばさをください (feat. Hatsune Miku).m4a
-- Reason: no LRCLIB search match
-- Metadata: なまえとつばさをください - Babuchan, Hatsune Miku
-- LRCLIB API search: https://lrclib.net/api/search?track_name=%E3%81%AA%E3%81%BE%E3%81%88%E3%81%A8%E3%81%A4%E3%81%B0%E3%81%95%E3%82%92%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84&artist_name=Babuchan%2C+Hatsune+Miku
-- Hymnary.org text search: https://hymnary.org/search?qu=%E3%81%AA%E3%81%BE%E3%81%88%E3%81%A8%E3%81%A4%E3%81%B0%E3%81%95%E3%82%92%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84+in%3Atexts
+## All The Ends of the Earth (with lyrics).m4a
+- Reason: no LRCLIB search match; Hymnary.org fallback failed: HTTPSConnectionPool(host='hymnary.org', port=443): Max retries exceeded with url: /text/all_the_ends_of_the_earth_st_louis_jesuits (Caused by SSLError(SSLError(1, '[SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:1077)')))
+- Metadata: All the Ends of the Earth - St. Louis Jesuits
+- LRCLIB API search: https://lrclib.net/api/search?track_name=All+the+Ends+of+the+Earth&artist_name=St.+Louis+Jesuits
+- Hymnary.org text search: https://hymnary.org/search?qu=All+the+Ends+of+the+Earth+in%3Atexts
 - Open Hymnal Project: https://openhymnal.org/
 - MusicBrainz Picard plugins: https://picard.musicbrainz.org/plugins/
 
-## 生きてるおばけは生きている.m4a
-- Reason: no LRCLIB search match
-- Metadata: 生きてるおばけは生きている - IVITs
-- LRCLIB API search: https://lrclib.net/api/search?track_name=%E7%94%9F%E3%81%8D%E3%81%A6%E3%82%8B%E3%81%8A%E3%81%B0%E3%81%91%E3%81%AF%E7%94%9F%E3%81%8D%E3%81%A6%E3%81%84%E3%82%8B&artist_name=IVITs
-- Hymnary.org text search: https://hymnary.org/search?qu=%E7%94%9F%E3%81%8D%E3%81%A6%E3%82%8B%E3%81%8A%E3%81%B0%E3%81%91%E3%81%AF%E7%94%9F%E3%81%8D%E3%81%A6%E3%81%84%E3%82%8B+in%3Atexts
+## O Come Divine Messiah.m4a
+- Reason: no LRCLIB search match; Hymnary.org fallback failed: HTTPSConnectionPool(host='hymnary.org', port=443): Max retries exceeded with url: /text/o_come_divine_messiah_the_barra_macneils (Caused by SSLError(SSLError(1, '[SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:1077)')))
+- Metadata: O Come Divine Messiah - The Barra MacNeils
+- LRCLIB API search: https://lrclib.net/api/search?track_name=O+Come+Divine+Messiah&artist_name=The+Barra+MacNeils
+- Hymnary.org text search: https://hymnary.org/search?qu=O+Come+Divine+Messiah+in%3Atexts
 - Open Hymnal Project: https://openhymnal.org/
 - MusicBrainz Picard plugins: https://picard.musicbrainz.org/plugins/
 
-## レイヴン・ヘイヴン.m4a
-- Reason: no LRCLIB search match
-- Metadata: レイヴン・ヘイヴン - SOOOO
-- LRCLIB API search: https://lrclib.net/api/search?track_name=%E3%83%AC%E3%82%A4%E3%83%B4%E3%83%B3%E3%83%BB%E3%83%98%E3%82%A4%E3%83%B4%E3%83%B3&artist_name=SOOOO
-- Hymnary.org text search: https://hymnary.org/search?qu=%E3%83%AC%E3%82%A4%E3%83%B4%E3%83%B3%E3%83%BB%E3%83%98%E3%82%A4%E3%83%B4%E3%83%B3+in%3Atexts
+## Praise God From Whom All Blessings Flow Hymn.m4a
+- Reason: no LRCLIB search match; Hymnary.org fallback failed: HTTPSConnectionPool(host='hymnary.org', port=443): Max retries exceeded with url: /text/praise_god_from_whom_all_blessings_flow_andy_piercy_dave_clifton (Caused by SSLError(SSLError(1, '[SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:1077)')))
+- Metadata: Praise God From Whom All Blessings Flow - Andy Piercy, Dave Clifton
+- LRCLIB API search: https://lrclib.net/api/search?track_name=Praise+God+From+Whom+All+Blessings+Flow&artist_name=Andy+Piercy%2C+Dave+Clifton
+- Hymnary.org text search: https://hymnary.org/search?qu=Praise+God+From+Whom+All+Blessings+Flow+in%3Atexts
 - Open Hymnal Project: https://openhymnal.org/
 - MusicBrainz Picard plugins: https://picard.musicbrainz.org/plugins/
 
-## あなぐらぐらし.m4a
-- Reason: no LRCLIB search match
-- Metadata: あなぐらぐらし - 茨むあん
-- LRCLIB API search: https://lrclib.net/api/search?track_name=%E3%81%82%E3%81%AA%E3%81%90%E3%82%89%E3%81%90%E3%82%89%E3%81%97&artist_name=%E8%8C%A8%E3%82%80%E3%81%82%E3%82%93
-- Hymnary.org text search: https://hymnary.org/search?qu=%E3%81%82%E3%81%AA%E3%81%90%E3%82%89%E3%81%90%E3%82%89%E3%81%97+in%3Atexts
+## Here I Am, Lord (I the Lord of Sea and Sky).m4a
+- Reason: no LRCLIB search match; Hymnary.org fallback failed: HTTPSConnectionPool(host='hymnary.org', port=443): Max retries exceeded with url: /text/here_i_am_lord_micah_tawlks_band (Caused by SSLError(SSLError(1, '[SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:1077)')))
+- Metadata: Here I Am Lord - Micah Tawlks Band
+- LRCLIB API search: https://lrclib.net/api/search?track_name=Here+I+Am+Lord&artist_name=Micah+Tawlks+Band
+- Hymnary.org text search: https://hymnary.org/search?qu=Here+I+Am+Lord+in%3Atexts
 - Open Hymnal Project: https://openhymnal.org/
 - MusicBrainz Picard plugins: https://picard.musicbrainz.org/plugins/
 
-## 看板娘の悪巫山戯 (feat. Hatsune Miku & Kagamine Rin & Megpoid).m4a
-- Reason: no LRCLIB search match
-- Metadata: 看板娘の悪巫山戯 - Zsasz
-- LRCLIB API search: https://lrclib.net/api/search?track_name=%E7%9C%8B%E6%9D%BF%E5%A8%98%E3%81%AE%E6%82%AA%E5%B7%AB%E5%B1%B1%E6%88%AF&artist_name=Zsasz
-- Hymnary.org text search: https://hymnary.org/search?qu=%E7%9C%8B%E6%9D%BF%E5%A8%98%E3%81%AE%E6%82%AA%E5%B7%AB%E5%B1%B1%E6%88%AF+in%3Atexts
+## Lord Make Me Like You Song.m4a
+- Reason: no LRCLIB search match; Hymnary.org fallback failed: HTTPSConnectionPool(host='hymnary.org', port=443): Max retries exceeded with url: /text/lord_make_me_like_you_st_john_s_north_riding_choir_band (Caused by SSLError(SSLError(1, '[SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:1077)')))
+- Metadata: Lord make me like You - St John's North Riding Choir Band
+- LRCLIB API search: https://lrclib.net/api/search?track_name=Lord+make+me+like+You&artist_name=St+John%27s+North+Riding+Choir+Band
+- Hymnary.org text search: https://hymnary.org/search?qu=Lord+make+me+like+You+in%3Atexts
 - Open Hymnal Project: https://openhymnal.org/
 - MusicBrainz Picard plugins: https://picard.musicbrainz.org/plugins/
 
-## 愛して　愛して　愛して (feat. Hatsune Miku).m4a
-- Reason: no LRCLIB search match
-- Metadata: 愛して 愛して 愛して - Kikuo, Hatsune Miku
-- LRCLIB API search: https://lrclib.net/api/search?track_name=%E6%84%9B%E3%81%97%E3%81%A6+%E6%84%9B%E3%81%97%E3%81%A6+%E6%84%9B%E3%81%97%E3%81%A6&artist_name=Kikuo%2C+Hatsune+Miku
-- Hymnary.org text search: https://hymnary.org/search?qu=%E6%84%9B%E3%81%97%E3%81%A6+%E6%84%9B%E3%81%97%E3%81%A6+%E6%84%9B%E3%81%97%E3%81%A6+in%3Atexts
+## Holy God, We Praise Thy Name.m4a
+- Reason: no LRCLIB search match; Hymnary.org fallback failed: HTTPSConnectionPool(host='hymnary.org', port=443): Max retries exceeded with url: /text/holy_god_we_praise_thy_name_st_olaf_choir_anton_armstrong (Caused by SSLError(SSLError(1, '[SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:1077)')))
+- Metadata: Holy God We Praise Thy Name - St. Olaf Choir, Anton Armstrong
+- LRCLIB API search: https://lrclib.net/api/search?track_name=Holy+God+We+Praise+Thy+Name&artist_name=St.+Olaf+Choir%2C+Anton+Armstrong
+- Hymnary.org text search: https://hymnary.org/search?qu=Holy+God+We+Praise+Thy+Name+in%3Atexts
 - Open Hymnal Project: https://openhymnal.org/
 - MusicBrainz Picard plugins: https://picard.musicbrainz.org/plugins/
 
-## あの子な幸せが (feat. 初音ミク).m4a
-- Reason: no LRCLIB search match
-- Metadata: あの子な幸せが - ばぶちゃん, 初音ミク
-- LRCLIB API search: https://lrclib.net/api/search?track_name=%E3%81%82%E3%81%AE%E5%AD%90%E3%81%AA%E5%B9%B8%E3%81%9B%E3%81%8C&artist_name=%E3%81%B0%E3%81%B6%E3%81%A1%E3%82%83%E3%82%93%2C+%E5%88%9D%E9%9F%B3%E3%83%9F%E3%82%AF
-- Hymnary.org text search: https://hymnary.org/search?qu=%E3%81%82%E3%81%AE%E5%AD%90%E3%81%AA%E5%B9%B8%E3%81%9B%E3%81%8C+in%3Atexts
+## Go, Tell It on the Mountain (Hymn Charts with Lyrics, Contemporary).m4a
+- Reason: no LRCLIB search match; Hymnary.org fallback failed: HTTPSConnectionPool(host='hymnary.org', port=443): Max retries exceeded with url: /text/go_tell_it_on_the_mountain_jingle_cats (Caused by SSLError(SSLError(1, '[SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:1077)')))
+- Metadata: Go Tell It on the Mountain - Jingle Cats
+- LRCLIB API search: https://lrclib.net/api/search?track_name=Go+Tell+It+on+the+Mountain&artist_name=Jingle+Cats
+- Hymnary.org text search: https://hymnary.org/search?qu=Go+Tell+It+on+the+Mountain+in%3Atexts
 - Open Hymnal Project: https://openhymnal.org/
 - MusicBrainz Picard plugins: https://picard.musicbrainz.org/plugins/
 
-## なまえとつばさをください (feat. Hatsune Miku)_Babuchan.m4a
-- Reason: no LRCLIB search match
-- Metadata: なまえとつばさをください - Babuchan, Hatsune Miku
-- LRCLIB API search: https://lrclib.net/api/search?track_name=%E3%81%AA%E3%81%BE%E3%81%88%E3%81%A8%E3%81%A4%E3%81%B0%E3%81%95%E3%82%92%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84&artist_name=Babuchan%2C+Hatsune+Miku
-- Hymnary.org text search: https://hymnary.org/search?qu=%E3%81%AA%E3%81%BE%E3%81%88%E3%81%A8%E3%81%A4%E3%81%B0%E3%81%95%E3%82%92%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84+in%3Atexts
+## He is Lord.m4a
+- Reason: no LRCLIB search match; Hymnary.org fallback failed: HTTPSConnectionPool(host='hymnary.org', port=443): Max retries exceeded with url: /text/he_is_lord_cedarmont_kids (Caused by SSLError(SSLError(1, '[SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:1077)')))
+- Metadata: He Is Lord - Cedarmont Kids
+- LRCLIB API search: https://lrclib.net/api/search?track_name=He+Is+Lord&artist_name=Cedarmont+Kids
+- Hymnary.org text search: https://hymnary.org/search?qu=He+Is+Lord+in%3Atexts
 - Open Hymnal Project: https://openhymnal.org/
 - MusicBrainz Picard plugins: https://picard.musicbrainz.org/plugins/
 
-## チョコレイト・オンナノコ (feat. Megpoid).m4a
-- Reason: no LRCLIB search match
-- Metadata: チョコレイト・オンナノコ - 鬱P, GUMI
-- LRCLIB API search: https://lrclib.net/api/search?track_name=%E3%83%81%E3%83%A7%E3%82%B3%E3%83%AC%E3%82%A4%E3%83%88%E3%83%BB%E3%82%AA%E3%83%B3%E3%83%8A%E3%83%8E%E3%82%B3&artist_name=%E9%AC%B1P%2C+GUMI
-- Hymnary.org text search: https://hymnary.org/search?qu=%E3%83%81%E3%83%A7%E3%82%B3%E3%83%AC%E3%82%A4%E3%83%88%E3%83%BB%E3%82%AA%E3%83%B3%E3%83%8A%E3%83%8E%E3%82%B3+in%3Atexts
+## Blessed be God.m4a
+- Reason: no LRCLIB search match; Hymnary.org fallback failed: HTTPSConnectionPool(host='hymnary.org', port=443): Max retries exceeded with url: /text/blessed_be_god_miriam_therese_winter_medical_mission_sisters (Caused by SSLError(SSLError(1, '[SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:1077)')))
+- Metadata: Blessed Be God - Miriam Therese Winter, Medical Mission Sisters
+- LRCLIB API search: https://lrclib.net/api/search?track_name=Blessed+Be+God&artist_name=Miriam+Therese+Winter%2C+Medical+Mission+Sisters
+- Hymnary.org text search: https://hymnary.org/search?qu=Blessed+Be+God+in%3Atexts
 - Open Hymnal Project: https://openhymnal.org/
 - MusicBrainz Picard plugins: https://picard.musicbrainz.org/plugins/
 
-## 拒絶反応.m4a
-- Reason: no LRCLIB search match
-- Metadata: 拒絶反応 - 鬱P, Fuma no KTR, 羽累
-- LRCLIB API search: https://lrclib.net/api/search?track_name=%E6%8B%92%E7%B5%B6%E5%8F%8D%E5%BF%9C&artist_name=%E9%AC%B1P%2C+Fuma+no+KTR%2C+%E7%BE%BD%E7%B4%AF
-- Hymnary.org text search: https://hymnary.org/search?qu=%E6%8B%92%E7%B5%B6%E5%8F%8D%E5%BF%9C+in%3Atexts
+## Hark! a herald voice is calling.m4a
+- Reason: no LRCLIB search match; Hymnary.org fallback failed: HTTPSConnectionPool(host='hymnary.org', port=443): Max retries exceeded with url: /text/hark_a_herald_voice_is_calling_richard_marlow_choir_of_trinity_college_cambridge (Caused by SSLError(SSLError(1, '[SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:1077)')))
+- Metadata: Hark! A Herald Voice Is Calling - Richard Marlow, Choir of Trinity College, Cambridge
+- LRCLIB API search: https://lrclib.net/api/search?track_name=Hark%21+A+Herald+Voice+Is+Calling&artist_name=Richard+Marlow%2C+Choir+of+Trinity+College%2C+Cambridge
+- Hymnary.org text search: https://hymnary.org/search?qu=Hark%21+A+Herald+Voice+Is+Calling+in%3Atexts
 - Open Hymnal Project: https://openhymnal.org/
 - MusicBrainz Picard plugins: https://picard.musicbrainz.org/plugins/
 
-## 骸Attack!! (feat. Hatsune Miku).m4a
-- Reason: no LRCLIB search match
-- Metadata: 骸Attack!! - 赤飯
-- LRCLIB API search: https://lrclib.net/api/search?track_name=%E9%AA%B8Attack%21%21&artist_name=%E8%B5%A4%E9%A3%AF
-- Hymnary.org text search: https://hymnary.org/search?qu=%E9%AA%B8Attack%21%21+in%3Atexts
+## Morning Hymn Alleluia (Medley).m4a
+- Reason: no LRCLIB search match; Hymnary.org fallback failed: HTTPSConnectionPool(host='hymnary.org', port=443): Max retries exceeded with url: /text/morning_hymn_alleluia_the_west_end_orchestra_and_singers (Caused by SSLError(SSLError(1, '[SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:1077)')))
+- Metadata: Morning Hymn (Alleluia) - The West End Orchestra & Singers
+- LRCLIB API search: https://lrclib.net/api/search?track_name=Morning+Hymn+%28Alleluia%29&artist_name=The+West+End+Orchestra+%26+Singers
+- Hymnary.org text search: https://hymnary.org/search?qu=Morning+Hymn+%28Alleluia%29+in%3Atexts
 - Open Hymnal Project: https://openhymnal.org/
 - MusicBrainz Picard plugins: https://picard.musicbrainz.org/plugins/
 
-## 少女A.m4a
-- Reason: no LRCLIB search match
-- Metadata: 少女A - Burning Sun Pops Orchestra
-- LRCLIB API search: https://lrclib.net/api/search?track_name=%E5%B0%91%E5%A5%B3A&artist_name=Burning+Sun+Pops+Orchestra
-- Hymnary.org text search: https://hymnary.org/search?qu=%E5%B0%91%E5%A5%B3A+in%3Atexts
+## Christ Be Beside Me (Christ Be Before Me).m4a
+- Reason: no LRCLIB search match; Hymnary.org fallback failed: HTTPSConnectionPool(host='hymnary.org', port=443): Max retries exceeded with url: /text/christ_be_beside_me_dana (Caused by SSLError(SSLError(1, '[SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:1077)')))
+- Metadata: Christ Be Beside Me - Dana
+- LRCLIB API search: https://lrclib.net/api/search?track_name=Christ+Be+Beside+Me&artist_name=Dana
+- Hymnary.org text search: https://hymnary.org/search?qu=Christ+Be+Beside+Me+in%3Atexts
 - Open Hymnal Project: https://openhymnal.org/
 - MusicBrainz Picard plugins: https://picard.musicbrainz.org/plugins/
 
-## 馬鹿はアノマリーに憧れる (feat. Kagamine Rin).m4a
-- Reason: no LRCLIB search match
-- Metadata: 馬鹿はアノマリーに憧れる - まじ娘, 赤飯
-- LRCLIB API search: https://lrclib.net/api/search?track_name=%E9%A6%AC%E9%B9%BF%E3%81%AF%E3%82%A2%E3%83%8E%E3%83%9E%E3%83%AA%E3%83%BC%E3%81%AB%E6%86%A7%E3%82%8C%E3%82%8B&artist_name=%E3%81%BE%E3%81%98%E5%A8%98%2C+%E8%B5%A4%E9%A3%AF
-- Hymnary.org text search: https://hymnary.org/search?qu=%E9%A6%AC%E9%B9%BF%E3%81%AF%E3%82%A2%E3%83%8E%E3%83%9E%E3%83%AA%E3%83%BC%E3%81%AB%E6%86%A7%E3%82%8C%E3%82%8B+in%3Atexts
+## Jesus, My Lord, My God, My All (Sweet Sacrament).m4a
+- Reason: no LRCLIB search match; Hymnary.org fallback failed: HTTPSConnectionPool(host='hymnary.org', port=443): Max retries exceeded with url: /text/jesus_my_lord_my_god_my_all_brett_williams (Caused by SSLError(SSLError(1, '[SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:1077)')))
+- Metadata: Jesus My Lord, My God, My All - Brett Williams
+- LRCLIB API search: https://lrclib.net/api/search?track_name=Jesus+My+Lord%2C+My+God%2C+My+All&artist_name=Brett+Williams
+- Hymnary.org text search: https://hymnary.org/search?qu=Jesus+My+Lord%2C+My+God%2C+My+All+in%3Atexts
 - Open Hymnal Project: https://openhymnal.org/
 - MusicBrainz Picard plugins: https://picard.musicbrainz.org/plugins/
 
-## 天樂.m4a
-- Reason: no LRCLIB search match
-- Metadata: 天樂 - 和楽器バンド
-- LRCLIB API search: https://lrclib.net/api/search?track_name=%E5%A4%A9%E6%A8%82&artist_name=%E5%92%8C%E6%A5%BD%E5%99%A8%E3%83%90%E3%83%B3%E3%83%89
-- Hymnary.org text search: https://hymnary.org/search?qu=%E5%A4%A9%E6%A8%82+in%3Atexts
+## Glory to God.m4a
+- Reason: no LRCLIB search match; Hymnary.org fallback failed: HTTPSConnectionPool(host='hymnary.org', port=443): Max retries exceeded with url: /text/glory_to_god_st_louis_jesuits (Caused by SSLError(SSLError(1, '[SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:1077)')))
+- Metadata: Glory to God - St. Louis Jesuits
+- LRCLIB API search: https://lrclib.net/api/search?track_name=Glory+to+God&artist_name=St.+Louis+Jesuits
+- Hymnary.org text search: https://hymnary.org/search?qu=Glory+to+God+in%3Atexts
 - Open Hymnal Project: https://openhymnal.org/
 - MusicBrainz Picard plugins: https://picard.musicbrainz.org/plugins/
 
-## 毒蜘蛛の娘 (feat. 初音ミク).m4a
-- Reason: no LRCLIB search match
-- Metadata: 毒蜘蛛の娘 - 鬱P, 初音ミク, 鏡音リン
-- LRCLIB API search: https://lrclib.net/api/search?track_name=%E6%AF%92%E8%9C%98%E8%9B%9B%E3%81%AE%E5%A8%98&artist_name=%E9%AC%B1P%2C+%E5%88%9D%E9%9F%B3%E3%83%9F%E3%82%AF%2C+%E9%8F%A1%E9%9F%B3%E3%83%AA%E3%83%B3
-- Hymnary.org text search: https://hymnary.org/search?qu=%E6%AF%92%E8%9C%98%E8%9B%9B%E3%81%AE%E5%A8%98+in%3Atexts
+## Bind Us Together, Lord.m4a
+- Reason: no LRCLIB search match; Hymnary.org fallback failed: HTTPSConnectionPool(host='hymnary.org', port=443): Max retries exceeded with url: /text/bind_us_together_lord_kevin_mayhew (Caused by SSLError(SSLError(1, '[SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:1077)')))
+- Metadata: Bind Us Together, Lord - Kevin Mayhew
+- LRCLIB API search: https://lrclib.net/api/search?track_name=Bind+Us+Together%2C+Lord&artist_name=Kevin+Mayhew
+- Hymnary.org text search: https://hymnary.org/search?qu=Bind+Us+Together%2C+Lord+in%3Atexts
 - Open Hymnal Project: https://openhymnal.org/
 - MusicBrainz Picard plugins: https://picard.musicbrainz.org/plugins/
 
-## cardigan_Taylor Swift.m4a
-- Reason: no LRCLIB search match
-- Metadata: cardigan - Taylor Swift
-- LRCLIB API search: https://lrclib.net/api/search?track_name=cardigan&artist_name=Taylor+Swift
-- Hymnary.org text search: https://hymnary.org/search?qu=cardigan+in%3Atexts
+## Chris Tomlin - How Great Is Our God (Lyrics And Chords).m4a
+- Reason: no LRCLIB search match; Hymnary.org fallback failed: HTTPSConnectionPool(host='hymnary.org', port=443): Max retries exceeded with url: /text/how_great_is_our_god_chris_tomlin (Caused by SSLError(SSLError(1, '[SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:1077)')))
+- Metadata: How Great Is Our God - Chris Tomlin
+- LRCLIB API search: https://lrclib.net/api/search?track_name=How+Great+Is+Our+God&artist_name=Chris+Tomlin
+- Hymnary.org text search: https://hymnary.org/search?qu=How+Great+Is+Our+God+in%3Atexts
 - Open Hymnal Project: https://openhymnal.org/
 - MusicBrainz Picard plugins: https://picard.musicbrainz.org/plugins/
